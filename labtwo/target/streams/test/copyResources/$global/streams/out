@@ -1,0 +1,10 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab2/src/test/resources/lab2,/Users/smeharzi/Desktop/csci3155/lab2/target/scala-2.10/test-classes/lab2)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab2/src/test/resources/lab2/test2002_boolean.ans,/Users/smeharzi/Desktop/csci3155/lab2/target/scala-2.10/test-classes/lab2/test2002_boolean.ans)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab2/src/test/resources/lab2/test2002_boolean.jsy,/Users/smeharzi/Desktop/csci3155/lab2/target/scala-2.10/test-classes/lab2/test2002_boolean.jsy)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab2/src/test/resources/lab2/test2003_undefined.ans,/Users/smeharzi/Desktop/csci3155/lab2/target/scala-2.10/test-classes/lab2/test2003_undefined.ans)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab2/src/test/resources/lab2/test2003_undefined.jsy,/Users/smeharzi/Desktop/csci3155/lab2/target/scala-2.10/test-classes/lab2/test2003_undefined.jsy)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab2/src/test/resources/lab2/test2013_undefinedplusnumber.ans,/Users/smeharzi/Desktop/csci3155/lab2/target/scala-2.10/test-classes/lab2/test2013_undefinedplusnumber.ans)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab2/src/test/resources/lab2/test2013_undefinedplusnumber.jsy,/Users/smeharzi/Desktop/csci3155/lab2/target/scala-2.10/test-classes/lab2/test2013_undefinedplusnumber.jsy)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab2/src/test/resources/lab2/test2029_variablelog.ans,/Users/smeharzi/Desktop/csci3155/lab2/target/scala-2.10/test-classes/lab2/test2029_variablelog.ans)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab2/src/test/resources/lab2/test2029_variablelog.jsy,/Users/smeharzi/Desktop/csci3155/lab2/target/scala-2.10/test-classes/lab2/test2029_variablelog.jsy)[0m

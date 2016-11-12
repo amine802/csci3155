@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mUnarySpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mNeg[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the negation of a number value (0 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32mNot[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the compliment of a boolean value (0 milliseconds)[0m[0m

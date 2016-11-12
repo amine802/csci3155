@@ -1,0 +1,3 @@
+[0m[[0minfo[0m] [0m[32mSeqSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mSeq[0m[0m
+[0m[[0minfo[0m] [0m[32m- should execute the first expression, followed by the second, and should eval to the second expression (0 milliseconds)[0m[0m

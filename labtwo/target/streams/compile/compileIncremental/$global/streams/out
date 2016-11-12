@@ -1,0 +1,74 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/Parser.scala, /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/JsyApplication.scala, /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/student/Lab2.scala, /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/ast.scala, /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/options.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/Parser.scala, /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/JsyApplication.scala, /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/student/Lab2.scala, /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/ast.scala, /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/options.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/Parser.scala, /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/JsyApplication.scala, /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/student/Lab2.scala, /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/ast.scala, /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/options.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 5 Scala sources to /Users/smeharzi/Desktop/csci3155/lab2/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.5[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.5[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 5abf5df7, interfacing (CompilerInterface) with Scala compiler version 2.10.5[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/classes:/Users/smeharzi/.sbt/boot/scala-2.10.5/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/smeharzi/Desktop/csci3155/lab2/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0mScala compilation took 7.757909344 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/student/Lab2.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/student/Lab2.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/student/Lab2.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/student/Lab2.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/student/Lab2.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, anonOption, test, wait, $asInstanceOf, keepGoing, equals, Env, asInstanceOf, toNumber, emp, synchronized, isJsy, $isInstanceOf, main, extend, toStr, notifyAll, debug, flagOptions, isInstanceOf, eval, toBoolean, doFile, ==, clone, maxSteps, testJsy, Lab2, toString, !=, get, getClass, ne, eq, ##, finalize, hashCode, handle, processFile.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/JsyApplication.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/JsyApplication.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/JsyApplication.scala)[0m
+[0m[[0mdebug[0m] [0mIncluding /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/student/Lab2.scala by /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/JsyApplication.scala[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/JsyApplication.scala, /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/student/Lab2.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/JsyApplication.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, anonOption, test, wait, $asInstanceOf, keepGoing, equals, asInstanceOf, synchronized, isJsy, $isInstanceOf, main, notifyAll, debug, flagOptions, isInstanceOf, <init>, doFile, ==, clone, maxSteps, testJsy, toString, !=, JsyApplication, getClass, ne, eq, ##, finalize, hashCode, handle, processFile.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/student/Lab2.scala: Set(equals, asInstanceOf, debug, isInstanceOf, <init>, ==, toString, !=, JsyApplication, ne)[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/Parser.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/Parser.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/Parser.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/Parser.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/Parser.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	keyword, StringExpr, accept.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following member ref dependencies of /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/Parser.scala are invalidated:[0m
+[0m[[0mdebug[0m] [0m	/Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/student/Lab2.scala[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/ast.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/ast.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/ast.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/ast.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/ast.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, unapply, curried, x, wait, Unary, copy$default$2, $asInstanceOf, n, compose, Var, e1, N, productArity, equals, Print, uop, Bop, asInstanceOf, Undefined, pretty, Expr, pos, synchronized, And, $isInstanceOf, isValue, andThen, tupled, canEqual, Lt, Gt, Ne, ConstDecl, productPrefix, notifyAll, readResolve, Plus, isInstanceOf, Minus, Neg, str, <init>, Seq, Le, Uop, b, apply, e3, prettyNumber, B, Eq, ==, If, clone, Binary, bop, setPos, copy$default$3, Not, copy, toString, !=, Times, getClass, copy$default$1, ast, e2, Ge, ne, eq, Div, productIterator, ##, finalize, productElement, hashCode, Or, S.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/student/Lab2.scala: Set(x, n, e1, equals, uop, asInstanceOf, Undefined, pretty, Expr, And, isValue, Lt, Gt, Ne, Plus, isInstanceOf, Minus, Neg, str, <init>, Seq, Le, b, apply, e3, Eq, ==, bop, Not, toString, !=, Times, ast, e2, Ge, ne, Div, Or)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/lab2/Parser.scala: Set(unapply, x, e1, uop, Bop, asInstanceOf, Undefined, Expr, pos, And, Lt, Gt, Ne, Plus, isInstanceOf, Minus, Neg, <init>, Seq, Le, apply, e3, Eq, ==, bop, setPos, Not, toString, !=, Times, ast, e2, Ge, ne, eq, Div, Or)[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/options.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/options.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/options.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/options.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/options.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, unapply, curried, anonName, wait, copy$default$2, $asInstanceOf, productArity, equals, x$2, process, asInstanceOf, setter, synchronized, usageErr, $isInstanceOf, tupled, canEqual, productPrefix, notifyAll, readResolve, isInstanceOf, options, currentArgs, <init>, apply, ==, anonDo, clone, default, Options, nameWidth, SetBool, padRight, copy, header, toString, !=, getClass, copy$default$1, Spec, ne, opts, anonDesc, eq, productIterator, descriptions, ##, finalize, productElement, hashCode, optline, SetInt.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/smeharzi/Desktop/csci3155/lab2/src/main/scala/jsy/util/JsyApplication.scala: Set(process, asInstanceOf, isInstanceOf, options, <init>, apply, ==, default, Options, toString, opts)[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

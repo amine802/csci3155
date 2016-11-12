@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mLab2JsyTests:[0m[0m
+[0m[[0minfo[0m] [0m[32meval on src/test/resources/lab2/test2002_boolean.jsy[0m[0m
+[0m[[0minfo[0m] [0m[32m- should match src/test/resources/lab2/test2002_boolean.ans (135 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32meval on src/test/resources/lab2/test2003_undefined.jsy[0m[0m
+[0m[[0minfo[0m] [0m[32m- should match src/test/resources/lab2/test2003_undefined.ans (3 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32meval on src/test/resources/lab2/test2013_undefinedplusnumber.jsy[0m[0m
+[0m[[0minfo[0m] [0m[32m- should match src/test/resources/lab2/test2013_undefinedplusnumber.ans (8 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32meval on src/test/resources/lab2/test2029_variablelog.jsy[0m[0m
+[0m[[0minfo[0m] [0m[32m- should match src/test/resources/lab2/test2029_variablelog.ans (25 milliseconds)[0m[0m

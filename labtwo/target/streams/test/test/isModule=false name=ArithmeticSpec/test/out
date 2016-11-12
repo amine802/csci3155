@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mArithmeticSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mPlus[0m[0m
+[0m[[0minfo[0m] [0m[32m- should add two number values and return a number (0 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32mMinus[0m[0m
+[0m[[0minfo[0m] [0m[32m- should subtract two number values and return a number (1 millisecond)[0m[0m
+[0m[[0minfo[0m] [0m[32mTimes[0m[0m
+[0m[[0minfo[0m] [0m[32m- should multiply two number values and return a number (0 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32mDiv[0m[0m
+[0m[[0minfo[0m] [0m[32m- should divide two number values and return a number (0 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32mArithmetic Operators[0m[0m
+[0m[[0minfo[0m] [0m[32m- should produce non-intuitive solutions given differing expression types (1 millisecond)[0m[0m

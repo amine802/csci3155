@@ -1,0 +1,3 @@
+[0m[[0minfo[0m] [0m[32mConstSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mConstDecl[0m[0m
+[0m[[0minfo[0m] [0m[32m- should extend the environment with the first expression results bound to the identifier, and then eval the second expression (0 milliseconds)[0m[0m

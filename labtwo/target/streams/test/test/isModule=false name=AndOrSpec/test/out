@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mAndOrSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mAnd[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return true only if both expressions are true (32 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32mAnd[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return non-intuitive results from differing types (0 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32mOr[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return true if either or both expressions are true (0 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32mOr[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return non-intuitive results from differing types (0 milliseconds)[0m[0m
