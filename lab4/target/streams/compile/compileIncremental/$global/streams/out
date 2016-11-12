@@ -1,0 +1,106 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/ast.scala, /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/JsyApplication.scala, /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/options.scala, /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala, /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/Parser.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/ast.scala, /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/JsyApplication.scala, /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/options.scala, /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala, /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/Parser.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/ast.scala, /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/JsyApplication.scala, /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/options.scala, /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala, /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/Parser.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 5 Scala sources to /Users/smeharzi/Desktop/csci3155/lab4/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.5[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.5[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 540eab5d, interfacing (CompilerInterface) with Scala compiler version 2.10.5[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/classes:/Users/smeharzi/.sbt/boot/scala-2.10.5/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/smeharzi/Desktop/csci3155/lab4/target/scala-2.10/classes[0m
+[0m[[33mwarn[0m] [0m/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala:232: patterns after a variable pattern cannot match (SLS 8.1.1)[0m
+[0m[[33mwarn[0m] [0m      case _ => ???[0m
+[0m[[33mwarn[0m] [0m           ^[0m
+[0m[[33mwarn[0m] [0m/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala:234: unreachable code due to variable pattern on line 232[0m
+[0m[[33mwarn[0m] [0m        v1 match {[0m
+[0m[[33mwarn[0m] [0m        ^[0m
+[0m[[33mwarn[0m] [0m/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala:247: unreachable code due to variable pattern on line 232[0m
+[0m[[33mwarn[0m] [0m      case _ => ???[0m
+[0m[[33mwarn[0m] [0m                ^[0m
+[0m[[33mwarn[0m] [0m/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala:250: unreachable code due to variable pattern on line 232[0m
+[0m[[33mwarn[0m] [0m      case Print(e1) => Print(step(e1))[0m
+[0m[[33mwarn[0m] [0m                             ^[0m
+[0m[[33mwarn[0m] [0m/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala:252: unreachable code due to variable pattern on line 232[0m
+[0m[[33mwarn[0m] [0m      case Unary(uop, e1) => ???[0m
+[0m[[33mwarn[0m] [0m                             ^[0m
+[0m[[33mwarn[0m] [0m/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala:253: unreachable code due to variable pattern on line 232[0m
+[0m[[33mwarn[0m] [0m      case _ => ???[0m
+[0m[[33mwarn[0m] [0m                ^[0m
+[0m[[33mwarn[0m] [0m/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala:255: unreachable code due to variable pattern on line 232[0m
+[0m[[33mwarn[0m] [0m      case Call(v1 @ Function(_, _, _, _), args) => ???[0m
+[0m[[33mwarn[0m] [0m                                                    ^[0m
+[0m[[33mwarn[0m] [0m/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala:256: unreachable code due to variable pattern on line 232[0m
+[0m[[33mwarn[0m] [0m      case Call(e1, args) => ???[0m
+[0m[[33mwarn[0m] [0m                             ^[0m
+[0m[[33mwarn[0m] [0m/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala:258: unreachable code due to variable pattern on line 232[0m
+[0m[[33mwarn[0m] [0m      case _ => ???[0m
+[0m[[33mwarn[0m] [0m                ^[0m
+[0m[[33mwarn[0m] [0m/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala:266: unreachable code due to variable pattern on line 232[0m
+[0m[[33mwarn[0m] [0m      case _ => throw StuckError(e)[0m
+[0m[[33mwarn[0m] [0m                ^[0m
+[0m[[33mwarn[0m] [0m10 warnings found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 11.64753777 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/Parser.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/Parser.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/Parser.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/Parser.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/Parser.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	keyword, StringTyp, StringExpr, accept.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following member ref dependencies of /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/Parser.scala are invalidated:[0m
+[0m[[0mdebug[0m] [0m	/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/ast.scala[0m
+[0m[[0mdebug[0m] [0m	/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/JsyApplication.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/JsyApplication.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/JsyApplication.scala)[0m
+[0m[[0mdebug[0m] [0mIncluding /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala by /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/JsyApplication.scala[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/JsyApplication.scala, /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/JsyApplication.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, anonOption, test, wait, $asInstanceOf, keepGoing, equals, asInstanceOf, synchronized, isJsy, $isInstanceOf, main, notifyAll, debug, flagOptions, isInstanceOf, <init>, doFile, ==, clone, maxSteps, testJsy, toString, !=, JsyApplication, getClass, ne, eq, ##, finalize, hashCode, handle, processFile.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala: Set(asInstanceOf, debug, isInstanceOf, <init>, ==, toString, JsyApplication, ne, eq, handle, processFile)[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/options.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/options.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/options.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/options.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/options.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, unapply, curried, anonName, wait, copy$default$2, $asInstanceOf, productArity, equals, x$2, process, asInstanceOf, setter, synchronized, usageErr, $isInstanceOf, tupled, canEqual, productPrefix, notifyAll, readResolve, isInstanceOf, options, currentArgs, <init>, apply, ==, anonDo, clone, default, Options, nameWidth, SetBool, padRight, copy, header, toString, !=, getClass, copy$default$1, Spec, ne, opts, anonDesc, eq, productIterator, descriptions, ##, finalize, productElement, hashCode, optline, SetInt.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/util/JsyApplication.scala: Set(process, asInstanceOf, isInstanceOf, options, <init>, apply, ==, default, Options, toString, opts)[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, unapply, anonOption, strictlyOrdered, curried, test, compressFold, wait, step, copy$default$2, $asInstanceOf, keepGoing, insert, TEnv, productArity, equals, Lab4, asInstanceOf, inferType, pretty, emp, synchronized, isJsy, Tree, $isInstanceOf, Node, tupled, typeInfer, canEqual, main, productPrefix, extend, compressRec, notifyAll, readResolve, debug, flagOptions, isInstanceOf, <init>, doFile, apply, Empty, l, ==, mapFirst, clone, hasFunctionTyp, maxSteps, testJsy, substitute, copy$default$3, copy, toString, iterateStep, !=, get, treeFromList, getClass, copy$default$1, inequalityVal, r, foldLeft, ne, eq, productIterator, sum, ##, finalize, productElement, hashCode, handle, processFile, d.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/ast.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/ast.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/ast.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/ast.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/ast.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	e, notify, unapply, s, curried, x, printStackTrace, getLocalizedMessage, wait, Function, Unary, copy$default$2, $asInstanceOf, n, compose, Var, TUndefined, tfields, e1, N, productArity, equals, Print, closed, uop, fillInStackTrace, Bop, initCause, asInstanceOf, Undefined, pretty, Expr, f, pos, params, synchronized, GetField, freeVars, And, $isInstanceOf, isValue, andThen, getCause, tupled, Typ, canEqual, Lt, Gt, copy$default$4, Ne, ConstDecl, productPrefix, notifyAll, readResolve, Plus, isInstanceOf, esub, tbad, DynamicTypeError, getStackTrace, getStackTraceElement, Minus, Neg, StuckError, tann, TNumber, <init>, Seq, Le, getMessage, Uop, setStackTrace, b, apply, e3, getSuppressed, B, Eq, ==, If, getStackTraceDepth, clone, fields, Binary, bop, addSuppressed, setPos, p, TFunction, Obj, TBool, tret, copy$default$3, Not, copy, StaticTypeError, toString, args, !=, Times, getClass, copy$default$1, ast, e2, TObj, Ge, ne, Call, TString, eq, Div, productIterator, ##, finalize, productElement, hashCode, Or, S.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/lab4/Parser.scala: Set(e, unapply, s, x, TUndefined, e1, uop, Bop, asInstanceOf, Undefined, Expr, f, pos, params, And, Typ, Lt, Gt, Ne, Plus, isInstanceOf, Minus, Neg, TNumber, <init>, Seq, Le, apply, e3, Eq, ==, bop, setPos, p, TBool, Not, toString, !=, Times, ast, e2, Ge, ne, TString, eq, Div, Or)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/smeharzi/Desktop/csci3155/lab4/src/main/scala/jsy/student/Lab4.scala: Set(e, s, x, n, TUndefined, tfields, e1, closed, uop, Bop, asInstanceOf, Undefined, pretty, Expr, f, params, And, isValue, Typ, Lt, Gt, Ne, Plus, isInstanceOf, Minus, Neg, tann, TNumber, <init>, Seq, Le, b, apply, Eq, ==, fields, bop, p, TBool, tret, Not, toString, args, Times, ast, e2, Ge, ne, TString, eq, Div, Or)[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

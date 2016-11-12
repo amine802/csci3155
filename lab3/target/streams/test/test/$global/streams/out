@@ -1,0 +1,22 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(FunctionCallSpec, org.scalatest.tools.Framework$$anon$1@77bfb507, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(SubstituteSpec, org.scalatest.tools.Framework$$anon$1@77bfb507, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(RulesSpec, org.scalatest.tools.Framework$$anon$1@77bfb507, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(Lab3JsyTests, org.scalatest.tools.Framework$$anon$1@77bfb507, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(Lab3Suite, org.scalatest.tools.Framework$$anon$1@77bfb507, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(Lab3Suite-0, org.scalatest.tools.Framework$$anon$1@77bfb507, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(Lab3Suite-1, org.scalatest.tools.Framework$$anon$1@77bfb507, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(Lab3Suite-2, org.scalatest.tools.Framework$$anon$1@77bfb507, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(Lab3Suite-3, org.scalatest.tools.Framework$$anon$1@77bfb507, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 1 second, 772 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 28[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 9, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 22, failed 6, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[31m*** 6 TESTS FAILED ***[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	Lab3Suite[0m
+[0m[[0mdebug[0m] [0m	FunctionCallSpec[0m
+[0m[[0mdebug[0m] [0m	SubstituteSpec[0m
+[0m[[0mdebug[0m] [0m	RulesSpec[0m
+[0m[[31merror[0m] [0mFailed tests:[0m
+[0m[[31merror[0m] [0m	Lab3JsyTests[0m
+[0m[[31merror[0m] [0m(test:[31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mLab5InterpreterSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mCastOkNull[0m[0m
+[0m[[0minfo[0m] [0m[32m- should perform CastOkNull (1 millisecond)[0m[0m
+[0m[[0minfo[0m] [0m[32mDoNeg[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the negation of a number value (4 milliseconds)[0m[0m

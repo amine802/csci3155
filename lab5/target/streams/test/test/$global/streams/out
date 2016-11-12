@@ -1,0 +1,19 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(Lab5ExercisesSpec, org.scalatest.tools.Framework$$anon$1@6aa8f5ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(Lab5InterpreterSpec, org.scalatest.tools.Framework$$anon$1@6aa8f5ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(Lab5JsyTests, org.scalatest.tools.Framework$$anon$1@6aa8f5ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(Lab5Suite, org.scalatest.tools.Framework$$anon$1@6aa8f5ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(Lab5Suite-0, org.scalatest.tools.Framework$$anon$1@6aa8f5ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(Lab5Suite-1, org.scalatest.tools.Framework$$anon$1@6aa8f5ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(Lab5Suite-2, org.scalatest.tools.Framework$$anon$1@6aa8f5ac, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 2 seconds, 896 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 26[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 7, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 10, failed 16, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[31m*** 16 TESTS FAILED ***[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	Lab5Suite[0m
+[0m[[0mdebug[0m] [0m	Lab5InterpreterSpec[0m
+[0m[[0mdebug[0m] [0m	Lab5ExercisesSpec[0m
+[0m[[31merror[0m] [0mFailed tests:[0m
+[0m[[31merror[0m] [0m	Lab5JsyTests[0m
+[0m[[31merror[0m] [0m(test:[31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

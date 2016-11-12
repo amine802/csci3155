@@ -1,0 +1,18 @@
+/* Examples for Lab 6 */
+
+// The following lines will run with the template as-is.
+console.log( /^.$/.test("a") )
+console.log( /^.$/.test("") )
+
+// The following lines show how you can test your regular
+// expression matcher.
+console.log( /^a$/.test("a") )
+console.log( /^a$/.test("b") )
+console.log( /^aa$/.test("a") )
+console.log( /^aa$/.test("aa") )
+console.log( /^a|b$/.test("a") )
+console.log( /^a|b$/.test("b") )
+console.log( /^a*$/.test("") )
+console.log( /^a*$/.test("aaa") )
+console.log( /^a*$/.test("b") )
+

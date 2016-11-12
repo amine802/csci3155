@@ -1,0 +1,9 @@
+# Type checking ...
+## Undefined
+# Stepping ...
+##    0:
+##  Map()
+##  Print(RE(RConcat(RConcat(RSingle(a),RSingle(b)),RSingle(c))))
+/^abc$/
+## Map()
+undefined

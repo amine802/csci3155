@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mRulesSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mEvalVar[0m[0m
+[0m[[0minfo[0m] [0m[32m- should perform EvalVar (0 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32mEvalNeg[0m[0m
+[0m[[0minfo[0m] [0m[32m- should perform EvalNeg (0 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32mEvalTypeErrorEquality1[0m[0m
+[0m[[0minfo[0m] [0m[32m- should perform EvalTypeErrorEquality1 (1 millisecond)[0m[0m
+[0m[[0minfo[0m] [0m[32mDoNeg[0m[0m
+[0m[[0minfo[0m] [0m[32m- should perform DoNeg (0 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32mSearchUnary[0m[0m
+[0m[[0minfo[0m] [0m[32m- should perform SearchUnary (0 milliseconds)[0m[0m

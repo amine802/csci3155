@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mLab5ExercisesSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mrename[0m[0m
+[0m[[0minfo[0m] [0m[32m- should rename from left-to-right using fresh (334 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32mmapFirstDoWith[0m[0m
+[0m[[0minfo[0m] [0m[32m- should map the first element where f returns Some (2 milliseconds)[0m[0m

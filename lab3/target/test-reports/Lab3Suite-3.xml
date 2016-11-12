@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="AdminisatorsMBP.T-mobile.com" name="Lab3Suite-3" tests="3" errors="0" failures="3" time="0.023">
+                     <properties>
+      <property name="jline.esc.timeout" value="0"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib"/><property name="java.vm.version" value="25.66-b17"/><property name="gopherProxySet" value="false"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="path.separator" value=":"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="US"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/Users/smeharzi/Desktop/csci3155/lab3"/><property name="java.runtime.version" value="1.8.0_66-b17"/><property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/><property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/endorsed"/><property name="os.arch" value="x86_64"/><property name="java.io.tmpdir" value="/var/folders/ts/6z11vbq92tn9y6rc4x1vr1lc0000gp/T/"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="os.name" value="Mac OS X"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="java.library.path" value="/Users/smeharzi/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.version" value="10.11.3"/><property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="user.home" value="/Users/smeharzi"/><property name="user.timezone" value="America/Denver"/><property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/usr/local/Cellar/sbt/0.13.9/libexec/sbt-launch.jar"/><property name="user.name" value="smeharzi"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/usr/local/Cellar/sbt/0.13.9/libexec/sbt-launch.jar test"/><property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="en"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_66"/><property name="java.ext.dirs" value="/Users/smeharzi/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/><property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="sun.cpu.endian" value="little"/><property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="Lab3Suite-3" name="(It is not a test)" time="0.006">
+                                                 <failure message="Computed output does not match expected output.
+Computed:
+============================================================
+File: test3003_call.jsy
+Parsing ...
+------------------------------------------------------------
+Evaluating with step ...
+Step 0: ConstDecl(w,Function(None,y,Binary(Minus,Var(y),N(7.0))),Print(Call(Var(w),N(4.3))))
+Step 1: Print(Call(Function(None,y,Binary(Minus,Var(y),N(7.0))),N(4.3)))
+Step 2: Print(Binary(Minus,N(4.3),N(7.0)))
+Step 3: Print(N(-2.7))
+-2.7
+Step 4: Undefined
+Value: Undefined
+undefined
+
+Expected:
+-2.7
+undefined
+" type="org.scalatest.exceptions.TestFailedException">org.scalatest.exceptions.TestFailedException: Computed output does not match expected output.
+Computed:
+============================================================
+File: test3003_call.jsy
+Parsing ...
+------------------------------------------------------------
+Evaluating with step ...
+Step 0: ConstDecl(w,Function(None,y,Binary(Minus,Var(y),N(7.0))),Print(Call(Var(w),N(4.3))))
+Step 1: Print(Call(Function(None,y,Binary(Minus,Var(y),N(7.0))),N(4.3)))
+Step 2: Print(Binary(Minus,N(4.3),N(7.0)))
+Step 3: Print(N(-2.7))
+-2.7
+Step 4: Undefined
+Value: Undefined
+undefined
+
+Expected:
+-2.7
+undefined
+
+	at org.scalatest.Assertions$class.newAssertionFailedException(Assertions.scala:468)
+	at org.scalatest.FlatSpec.newAssertionFailedException(FlatSpec.scala:1683)
+	at org.scalatest.Assertions$AssertionsHelper.macroAssert(Assertions.scala:364)
+	at jsy.tester.JavascriptyTester$$anonfun$1$$anonfun$apply$1.apply$mcV$sp(JavascriptyTester.scala:22)
+	at jsy.tester.JavascriptyTester$$anonfun$1$$anonfun$apply$1.apply(JavascriptyTester.scala:20)
+	at jsy.tester.JavascriptyTester$$anonfun$1$$anonfun$apply$1.apply(JavascriptyTester.scala:20)
+	at org.scalatest.Transformer$$anonfun$apply$1.apply(Transformer.scala:22)
+	at org.scalatest.Transformer$$anonfun$apply$1.apply(Transformer.scala:22)
+	at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)
+	at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)
+	at org.scalatest.Transformer.apply(Transformer.scala:22)
+	at org.scalatest.Transformer.apply(Transformer.scala:20)
+	at org.scalatest.FlatSpecLike$$anon$1.apply(FlatSpecLike.scala:1636)
+	at org.scalatest.Suite$class.withFixture(Suite.scala:1121)
+	at org.scalatest.FlatSpec.withFixture(FlatSpec.scala:1683)
+	at org.scalatest.FlatSpecLike$class.invokeWithFixture$1(FlatSpecLike.scala:1633)
+	at org.scalatest.FlatSpecLike$$anonfun$runTest$1.apply(FlatSpecLike.scala:1645)
+	at org.scalatest.FlatSpecLike$$anonfun$runTest$1.apply(FlatSpecLike.scala:1645)
+	at org.scalatest.SuperEngine.runTestImpl(Engine.scala:306)
+	at org.scalatest.FlatSpecLike$class.runTest(FlatSpecLike.scala:1645)
+	at org.scalatest.FlatSpec.runTest(FlatSpec.scala:1683)
+	at org.scalatest.FlatSpecLike$$anonfun$runTests$1.apply(FlatSpecLike.scala:1703)
+	at org.scalatest.FlatSpecLike$$anonfun$runTests$1.apply(FlatSpecLike.scala:1703)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:413)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:401)
+	at scala.collection.immutable.List.foreach(List.scala:318)
+	at org.scalatest.SuperEngine.traverseSubNodes$1(Engine.scala:401)
+	at org.scalatest.SuperEngine.org$scalatest$SuperEngine$$runTestsInBranch(Engine.scala:390)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:427)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:401)
+	at scala.collection.immutable.List.foreach(List.scala:318)
+	at org.scalatest.SuperEngine.traverseSubNodes$1(Engine.scala:401)
+	at org.scalatest.SuperEngine.org$scalatest$SuperEngine$$runTestsInBranch(Engine.scala:396)
+	at org.scalatest.SuperEngine.runTestsImpl(Engine.scala:483)
+	at org.scalatest.FlatSpecLike$class.runTests(FlatSpecLike.scala:1703)
+	at org.scalatest.FlatSpec.runTests(FlatSpec.scala:1683)
+	at org.scalatest.Suite$class.run(Suite.scala:1423)
+	at org.scalatest.FlatSpec.org$scalatest$FlatSpecLike$$super$run(FlatSpec.scala:1683)
+	at org.scalatest.FlatSpecLike$$anonfun$run$1.apply(FlatSpecLike.scala:1749)
+	at org.scalatest.FlatSpecLike$$anonfun$run$1.apply(FlatSpecLike.scala:1749)
+	at org.scalatest.SuperEngine.runImpl(Engine.scala:545)
+	at org.scalatest.FlatSpecLike$class.run(FlatSpecLike.scala:1749)
+	at org.scalatest.FlatSpec.run(FlatSpec.scala:1683)
+	at org.scalatest.tools.Framework.org$scalatest$tools$Framework$$runSuite(Framework.scala:444)
+	at org.scalatest.tools.Framework$ScalaTestNestedTask.execute(Framework.scala:529)
+	at sbt.TestRunner.runTest$1(TestFramework.scala:76)
+	at sbt.TestRunner.run(TestFramework.scala:85)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1$$anonfun$apply$8.apply(TestFramework.scala:202)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1$$anonfun$apply$8.apply(TestFramework.scala:202)
+	at sbt.TestFramework$.sbt$TestFramework$$withContextLoader(TestFramework.scala:185)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1.apply(TestFramework.scala:202)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1.apply(TestFramework.scala:202)
+	at sbt.TestFunction.apply(TestFramework.scala:207)
+	at sbt.Tests$.sbt$Tests$$processRunnable$1(Tests.scala:239)
+	at sbt.Tests$$anonfun$makeSerial$1.apply(Tests.scala:245)
+	at sbt.Tests$$anonfun$makeSerial$1.apply(Tests.scala:245)
+	at sbt.std.Transform$$anon$3$$anonfun$apply$2.apply(System.scala:44)
+	at sbt.std.Transform$$anon$3$$anonfun$apply$2.apply(System.scala:44)
+	at sbt.std.Transform$$anon$4.work(System.scala:63)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:226)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:226)
+	at sbt.ErrorHandling$.wideConvert(ErrorHandling.scala:17)
+	at sbt.Execute.work(Execute.scala:235)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:226)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:226)
+	at sbt.ConcurrentRestrictions$$anon$4$$anonfun$1.apply(ConcurrentRestrictions.scala:159)
+	at sbt.CompletionService$$anon$2.call(CompletionService.scala:28)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+                                               </testcase><testcase classname="Lab3Suite-3" name="(It is not a test)" time="0.007">
+                                                 <failure message="Computed output does not match expected output.
+Computed:
+============================================================
+File: test3005_curry.jsy
+Parsing ...
+------------------------------------------------------------
+Evaluating with step ...
+Step 0: ConstDecl(g,Function(None,x,Function(None,y,Binary(And,Var(x),Var(y)))),Binary(Plus,Call(Call(Var(g),N(1.0)),N(0.0)),N(0.1)))
+Step 1: Binary(Plus,Call(Call(Function(None,x,Function(None,y,Binary(And,Var(x),Var(y)))),N(1.0)),N(0.0)),N(0.1))
+Step 2: Binary(Plus,Call(Function(None,y,Binary(And,N(1.0),Var(y))),N(0.0)),N(0.1))
+Step 3: Binary(Plus,Binary(And,N(1.0),N(0.0)),N(0.1))
+Step 4: Binary(Plus,N(0.0),N(0.1))
+Step 5: N(0.1)
+Value: N(0.1)
+0.1
+
+Expected:
+0.1
+" type="org.scalatest.exceptions.TestFailedException">org.scalatest.exceptions.TestFailedException: Computed output does not match expected output.
+Computed:
+============================================================
+File: test3005_curry.jsy
+Parsing ...
+------------------------------------------------------------
+Evaluating with step ...
+Step 0: ConstDecl(g,Function(None,x,Function(None,y,Binary(And,Var(x),Var(y)))),Binary(Plus,Call(Call(Var(g),N(1.0)),N(0.0)),N(0.1)))
+Step 1: Binary(Plus,Call(Call(Function(None,x,Function(None,y,Binary(And,Var(x),Var(y)))),N(1.0)),N(0.0)),N(0.1))
+Step 2: Binary(Plus,Call(Function(None,y,Binary(And,N(1.0),Var(y))),N(0.0)),N(0.1))
+Step 3: Binary(Plus,Binary(And,N(1.0),N(0.0)),N(0.1))
+Step 4: Binary(Plus,N(0.0),N(0.1))
+Step 5: N(0.1)
+Value: N(0.1)
+0.1
+
+Expected:
+0.1
+
+	at org.scalatest.Assertions$class.newAssertionFailedException(Assertions.scala:468)
+	at org.scalatest.FlatSpec.newAssertionFailedException(FlatSpec.scala:1683)
+	at org.scalatest.Assertions$AssertionsHelper.macroAssert(Assertions.scala:364)
+	at jsy.tester.JavascriptyTester$$anonfun$1$$anonfun$apply$1.apply$mcV$sp(JavascriptyTester.scala:22)
+	at jsy.tester.JavascriptyTester$$anonfun$1$$anonfun$apply$1.apply(JavascriptyTester.scala:20)
+	at jsy.tester.JavascriptyTester$$anonfun$1$$anonfun$apply$1.apply(JavascriptyTester.scala:20)
+	at org.scalatest.Transformer$$anonfun$apply$1.apply(Transformer.scala:22)
+	at org.scalatest.Transformer$$anonfun$apply$1.apply(Transformer.scala:22)
+	at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)
+	at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)
+	at org.scalatest.Transformer.apply(Transformer.scala:22)
+	at org.scalatest.Transformer.apply(Transformer.scala:20)
+	at org.scalatest.FlatSpecLike$$anon$1.apply(FlatSpecLike.scala:1636)
+	at org.scalatest.Suite$class.withFixture(Suite.scala:1121)
+	at org.scalatest.FlatSpec.withFixture(FlatSpec.scala:1683)
+	at org.scalatest.FlatSpecLike$class.invokeWithFixture$1(FlatSpecLike.scala:1633)
+	at org.scalatest.FlatSpecLike$$anonfun$runTest$1.apply(FlatSpecLike.scala:1645)
+	at org.scalatest.FlatSpecLike$$anonfun$runTest$1.apply(FlatSpecLike.scala:1645)
+	at org.scalatest.SuperEngine.runTestImpl(Engine.scala:306)
+	at org.scalatest.FlatSpecLike$class.runTest(FlatSpecLike.scala:1645)
+	at org.scalatest.FlatSpec.runTest(FlatSpec.scala:1683)
+	at org.scalatest.FlatSpecLike$$anonfun$runTests$1.apply(FlatSpecLike.scala:1703)
+	at org.scalatest.FlatSpecLike$$anonfun$runTests$1.apply(FlatSpecLike.scala:1703)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:413)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:401)
+	at scala.collection.immutable.List.foreach(List.scala:318)
+	at org.scalatest.SuperEngine.traverseSubNodes$1(Engine.scala:401)
+	at org.scalatest.SuperEngine.org$scalatest$SuperEngine$$runTestsInBranch(Engine.scala:390)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:427)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:401)
+	at scala.collection.immutable.List.foreach(List.scala:318)
+	at org.scalatest.SuperEngine.traverseSubNodes$1(Engine.scala:401)
+	at org.scalatest.SuperEngine.org$scalatest$SuperEngine$$runTestsInBranch(Engine.scala:396)
+	at org.scalatest.SuperEngine.runTestsImpl(Engine.scala:483)
+	at org.scalatest.FlatSpecLike$class.runTests(FlatSpecLike.scala:1703)
+	at org.scalatest.FlatSpec.runTests(FlatSpec.scala:1683)
+	at org.scalatest.Suite$class.run(Suite.scala:1423)
+	at org.scalatest.FlatSpec.org$scalatest$FlatSpecLike$$super$run(FlatSpec.scala:1683)
+	at org.scalatest.FlatSpecLike$$anonfun$run$1.apply(FlatSpecLike.scala:1749)
+	at org.scalatest.FlatSpecLike$$anonfun$run$1.apply(FlatSpecLike.scala:1749)
+	at org.scalatest.SuperEngine.runImpl(Engine.scala:545)
+	at org.scalatest.FlatSpecLike$class.run(FlatSpecLike.scala:1749)
+	at org.scalatest.FlatSpec.run(FlatSpec.scala:1683)
+	at org.scalatest.tools.Framework.org$scalatest$tools$Framework$$runSuite(Framework.scala:444)
+	at org.scalatest.tools.Framework$ScalaTestNestedTask.execute(Framework.scala:529)
+	at sbt.TestRunner.runTest$1(TestFramework.scala:76)
+	at sbt.TestRunner.run(TestFramework.scala:85)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1$$anonfun$apply$8.apply(TestFramework.scala:202)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1$$anonfun$apply$8.apply(TestFramework.scala:202)
+	at sbt.TestFramework$.sbt$TestFramework$$withContextLoader(TestFramework.scala:185)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1.apply(TestFramework.scala:202)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1.apply(TestFramework.scala:202)
+	at sbt.TestFunction.apply(TestFramework.scala:207)
+	at sbt.Tests$.sbt$Tests$$processRunnable$1(Tests.scala:239)
+	at sbt.Tests$$anonfun$makeSerial$1.apply(Tests.scala:245)
+	at sbt.Tests$$anonfun$makeSerial$1.apply(Tests.scala:245)
+	at sbt.std.Transform$$anon$3$$anonfun$apply$2.apply(System.scala:44)
+	at sbt.std.Transform$$anon$3$$anonfun$apply$2.apply(System.scala:44)
+	at sbt.std.Transform$$anon$4.work(System.scala:63)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:226)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:226)
+	at sbt.ErrorHandling$.wideConvert(ErrorHandling.scala:17)
+	at sbt.Execute.work(Execute.scala:235)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:226)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:226)
+	at sbt.ConcurrentRestrictions$$anon$4$$anonfun$1.apply(ConcurrentRestrictions.scala:159)
+	at sbt.CompletionService$$anon$2.call(CompletionService.scala:28)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+                                               </testcase><testcase classname="Lab3Suite-3" name="(It is not a test)" time="0.01">
+                                                 <failure message="Computed output does not match expected output.
+Computed:
+============================================================
+File: test3007_call.jsy
+Parsing ...
+------------------------------------------------------------
+Evaluating with step ...
+Step 0: ConstDecl(f,Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Plus,Call(Var(f),N(8.0)),N(0.1)))
+Step 1: Binary(Plus,Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(8.0)),N(0.1))
+Step 2: Binary(Plus,If(Binary(Eq,N(8.0),N(0.0)),N(1.0),Binary(Times,N(8.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(8.0),N(1.0))))),N(0.1))
+Step 3: Binary(Plus,If(B(false),N(1.0),Binary(Times,N(8.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(8.0),N(1.0))))),N(0.1))
+Step 4: Binary(Plus,Binary(Times,N(8.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(8.0),N(1.0)))),N(0.1))
+Step 5: Binary(Plus,Binary(Times,N(8.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(7.0))),N(0.1))
+Step 6: Binary(Plus,Binary(Times,N(8.0),If(Binary(Eq,N(7.0),N(0.0)),N(1.0),Binary(Times,N(7.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(7.0),N(1.0)))))),N(0.1))
+Step 7: Binary(Plus,Binary(Times,N(8.0),If(B(false),N(1.0),Binary(Times,N(7.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(7.0),N(1.0)))))),N(0.1))
+Step 8: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(7.0),N(1.0))))),N(0.1))
+Step 9: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(6.0)))),N(0.1))
+Step 10: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),If(Binary(Eq,N(6.0),N(0.0)),N(1.0),Binary(Times,N(6.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(6.0),N(1.0))))))),N(0.1))
+Step 11: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),If(B(false),N(1.0),Binary(Times,N(6.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(6.0),N(1.0))))))),N(0.1))
+Step 12: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(6.0),N(1.0)))))),N(0.1))
+Step 13: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(5.0))))),N(0.1))
+Step 14: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),If(Binary(Eq,N(5.0),N(0.0)),N(1.0),Binary(Times,N(5.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(5.0),N(1.0)))))))),N(0.1))
+Step 15: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),If(B(false),N(1.0),Binary(Times,N(5.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(5.0),N(1.0)))))))),N(0.1))
+Step 16: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(5.0),N(1.0))))))),N(0.1))
+Step 17: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(4.0)))))),N(0.1))
+Step 18: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),If(Binary(Eq,N(4.0),N(0.0)),N(1.0),Binary(Times,N(4.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(4.0),N(1.0))))))))),N(0.1))
+Step 19: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),If(B(false),N(1.0),Binary(Times,N(4.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(4.0),N(1.0))))))))),N(0.1))
+Step 20: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(4.0),N(1.0)))))))),N(0.1))
+Step 21: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(3.0))))))),N(0.1))
+Step 22: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),If(Binary(Eq,N(3.0),N(0.0)),N(1.0),Binary(Times,N(3.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(3.0),N(1.0)))))))))),N(0.1))
+Step 23: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),If(B(false),N(1.0),Binary(Times,N(3.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(3.0),N(1.0)))))))))),N(0.1))
+Step 24: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(3.0),N(1.0))))))))),N(0.1))
+Step 25: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(2.0)))))))),N(0.1))
+Step 26: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),If(Binary(Eq,N(2.0),N(0.0)),N(1.0),Binary(Times,N(2.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(2.0),N(1.0))))))))))),N(0.1))
+Step 27: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),If(B(false),N(1.0),Binary(Times,N(2.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(2.0),N(1.0))))))))))),N(0.1))
+Step 28: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(2.0),N(1.0)))))))))),N(0.1))
+Step 29: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(1.0))))))))),N(0.1))
+Step 30: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),If(Binary(Eq,N(1.0),N(0.0)),N(1.0),Binary(Times,N(1.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(1.0),N(1.0)))))))))))),N(0.1))
+Step 31: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),If(B(false),N(1.0),Binary(Times,N(1.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(1.0),N(1.0)))))))))))),N(0.1))
+Step 32: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Binary(Times,N(1.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(1.0),N(1.0))))))))))),N(0.1))
+Step 33: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Binary(Times,N(1.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(0.0)))))))))),N(0.1))
+Step 34: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Binary(Times,N(1.0),If(Binary(Eq,N(0.0),N(0.0)),N(1.0),Binary(Times,N(0.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(0.0),N(1.0))))))))))))),N(0.1))
+Step 35: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Binary(Times,N(1.0),If(B(true),N(1.0),Binary(Times,N(0.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(0.0),N(1.0))))))))))))),N(0.1))
+Step 36: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Binary(Times,N(1.0),N(1.0))))))))),N(0.1))
+Step 37: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),N(1.0)))))))),N(0.1))
+Step 38: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),N(2.0))))))),N(0.1))
+Step 39: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),N(6.0)))))),N(0.1))
+Step 40: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),N(24.0))))),N(0.1))
+Step 41: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),N(120.0)))),N(0.1))
+Step 42: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),N(720.0))),N(0.1))
+Step 43: Binary(Plus,Binary(Times,N(8.0),N(5040.0)),N(0.1))
+Step 44: Binary(Plus,N(40320.0),N(0.1))
+Step 45: N(40320.1)
+Value: N(40320.1)
+40320.1
+
+Expected:
+40320.1
+" type="org.scalatest.exceptions.TestFailedException">org.scalatest.exceptions.TestFailedException: Computed output does not match expected output.
+Computed:
+============================================================
+File: test3007_call.jsy
+Parsing ...
+------------------------------------------------------------
+Evaluating with step ...
+Step 0: ConstDecl(f,Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Plus,Call(Var(f),N(8.0)),N(0.1)))
+Step 1: Binary(Plus,Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(8.0)),N(0.1))
+Step 2: Binary(Plus,If(Binary(Eq,N(8.0),N(0.0)),N(1.0),Binary(Times,N(8.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(8.0),N(1.0))))),N(0.1))
+Step 3: Binary(Plus,If(B(false),N(1.0),Binary(Times,N(8.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(8.0),N(1.0))))),N(0.1))
+Step 4: Binary(Plus,Binary(Times,N(8.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(8.0),N(1.0)))),N(0.1))
+Step 5: Binary(Plus,Binary(Times,N(8.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(7.0))),N(0.1))
+Step 6: Binary(Plus,Binary(Times,N(8.0),If(Binary(Eq,N(7.0),N(0.0)),N(1.0),Binary(Times,N(7.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(7.0),N(1.0)))))),N(0.1))
+Step 7: Binary(Plus,Binary(Times,N(8.0),If(B(false),N(1.0),Binary(Times,N(7.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(7.0),N(1.0)))))),N(0.1))
+Step 8: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(7.0),N(1.0))))),N(0.1))
+Step 9: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(6.0)))),N(0.1))
+Step 10: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),If(Binary(Eq,N(6.0),N(0.0)),N(1.0),Binary(Times,N(6.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(6.0),N(1.0))))))),N(0.1))
+Step 11: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),If(B(false),N(1.0),Binary(Times,N(6.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(6.0),N(1.0))))))),N(0.1))
+Step 12: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(6.0),N(1.0)))))),N(0.1))
+Step 13: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(5.0))))),N(0.1))
+Step 14: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),If(Binary(Eq,N(5.0),N(0.0)),N(1.0),Binary(Times,N(5.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(5.0),N(1.0)))))))),N(0.1))
+Step 15: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),If(B(false),N(1.0),Binary(Times,N(5.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(5.0),N(1.0)))))))),N(0.1))
+Step 16: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(5.0),N(1.0))))))),N(0.1))
+Step 17: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(4.0)))))),N(0.1))
+Step 18: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),If(Binary(Eq,N(4.0),N(0.0)),N(1.0),Binary(Times,N(4.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(4.0),N(1.0))))))))),N(0.1))
+Step 19: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),If(B(false),N(1.0),Binary(Times,N(4.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(4.0),N(1.0))))))))),N(0.1))
+Step 20: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(4.0),N(1.0)))))))),N(0.1))
+Step 21: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(3.0))))))),N(0.1))
+Step 22: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),If(Binary(Eq,N(3.0),N(0.0)),N(1.0),Binary(Times,N(3.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(3.0),N(1.0)))))))))),N(0.1))
+Step 23: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),If(B(false),N(1.0),Binary(Times,N(3.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(3.0),N(1.0)))))))))),N(0.1))
+Step 24: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(3.0),N(1.0))))))))),N(0.1))
+Step 25: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(2.0)))))))),N(0.1))
+Step 26: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),If(Binary(Eq,N(2.0),N(0.0)),N(1.0),Binary(Times,N(2.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(2.0),N(1.0))))))))))),N(0.1))
+Step 27: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),If(B(false),N(1.0),Binary(Times,N(2.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(2.0),N(1.0))))))))))),N(0.1))
+Step 28: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(2.0),N(1.0)))))))))),N(0.1))
+Step 29: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(1.0))))))))),N(0.1))
+Step 30: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),If(Binary(Eq,N(1.0),N(0.0)),N(1.0),Binary(Times,N(1.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(1.0),N(1.0)))))))))))),N(0.1))
+Step 31: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),If(B(false),N(1.0),Binary(Times,N(1.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(1.0),N(1.0)))))))))))),N(0.1))
+Step 32: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Binary(Times,N(1.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(1.0),N(1.0))))))))))),N(0.1))
+Step 33: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Binary(Times,N(1.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(0.0)))))))))),N(0.1))
+Step 34: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Binary(Times,N(1.0),If(Binary(Eq,N(0.0),N(0.0)),N(1.0),Binary(Times,N(0.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(0.0),N(1.0))))))))))))),N(0.1))
+Step 35: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Binary(Times,N(1.0),If(B(true),N(1.0),Binary(Times,N(0.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(0.0),N(1.0))))))))))))),N(0.1))
+Step 36: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Binary(Times,N(1.0),N(1.0))))))))),N(0.1))
+Step 37: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),N(1.0)))))))),N(0.1))
+Step 38: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),N(2.0))))))),N(0.1))
+Step 39: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),N(6.0)))))),N(0.1))
+Step 40: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),N(24.0))))),N(0.1))
+Step 41: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),N(120.0)))),N(0.1))
+Step 42: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),N(720.0))),N(0.1))
+Step 43: Binary(Plus,Binary(Times,N(8.0),N(5040.0)),N(0.1))
+Step 44: Binary(Plus,N(40320.0),N(0.1))
+Step 45: N(40320.1)
+Value: N(40320.1)
+40320.1
+
+Expected:
+40320.1
+
+	at org.scalatest.Assertions$class.newAssertionFailedException(Assertions.scala:468)
+	at org.scalatest.FlatSpec.newAssertionFailedException(FlatSpec.scala:1683)
+	at org.scalatest.Assertions$AssertionsHelper.macroAssert(Assertions.scala:364)
+	at jsy.tester.JavascriptyTester$$anonfun$1$$anonfun$apply$1.apply$mcV$sp(JavascriptyTester.scala:22)
+	at jsy.tester.JavascriptyTester$$anonfun$1$$anonfun$apply$1.apply(JavascriptyTester.scala:20)
+	at jsy.tester.JavascriptyTester$$anonfun$1$$anonfun$apply$1.apply(JavascriptyTester.scala:20)
+	at org.scalatest.Transformer$$anonfun$apply$1.apply(Transformer.scala:22)
+	at org.scalatest.Transformer$$anonfun$apply$1.apply(Transformer.scala:22)
+	at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)
+	at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)
+	at org.scalatest.Transformer.apply(Transformer.scala:22)
+	at org.scalatest.Transformer.apply(Transformer.scala:20)
+	at org.scalatest.FlatSpecLike$$anon$1.apply(FlatSpecLike.scala:1636)
+	at org.scalatest.Suite$class.withFixture(Suite.scala:1121)
+	at org.scalatest.FlatSpec.withFixture(FlatSpec.scala:1683)
+	at org.scalatest.FlatSpecLike$class.invokeWithFixture$1(FlatSpecLike.scala:1633)
+	at org.scalatest.FlatSpecLike$$anonfun$runTest$1.apply(FlatSpecLike.scala:1645)
+	at org.scalatest.FlatSpecLike$$anonfun$runTest$1.apply(FlatSpecLike.scala:1645)
+	at org.scalatest.SuperEngine.runTestImpl(Engine.scala:306)
+	at org.scalatest.FlatSpecLike$class.runTest(FlatSpecLike.scala:1645)
+	at org.scalatest.FlatSpec.runTest(FlatSpec.scala:1683)
+	at org.scalatest.FlatSpecLike$$anonfun$runTests$1.apply(FlatSpecLike.scala:1703)
+	at org.scalatest.FlatSpecLike$$anonfun$runTests$1.apply(FlatSpecLike.scala:1703)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:413)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:401)
+	at scala.collection.immutable.List.foreach(List.scala:318)
+	at org.scalatest.SuperEngine.traverseSubNodes$1(Engine.scala:401)
+	at org.scalatest.SuperEngine.org$scalatest$SuperEngine$$runTestsInBranch(Engine.scala:390)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:427)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:401)
+	at scala.collection.immutable.List.foreach(List.scala:318)
+	at org.scalatest.SuperEngine.traverseSubNodes$1(Engine.scala:401)
+	at org.scalatest.SuperEngine.org$scalatest$SuperEngine$$runTestsInBranch(Engine.scala:396)
+	at org.scalatest.SuperEngine.runTestsImpl(Engine.scala:483)
+	at org.scalatest.FlatSpecLike$class.runTests(FlatSpecLike.scala:1703)
+	at org.scalatest.FlatSpec.runTests(FlatSpec.scala:1683)
+	at org.scalatest.Suite$class.run(Suite.scala:1423)
+	at org.scalatest.FlatSpec.org$scalatest$FlatSpecLike$$super$run(FlatSpec.scala:1683)
+	at org.scalatest.FlatSpecLike$$anonfun$run$1.apply(FlatSpecLike.scala:1749)
+	at org.scalatest.FlatSpecLike$$anonfun$run$1.apply(FlatSpecLike.scala:1749)
+	at org.scalatest.SuperEngine.runImpl(Engine.scala:545)
+	at org.scalatest.FlatSpecLike$class.run(FlatSpecLike.scala:1749)
+	at org.scalatest.FlatSpec.run(FlatSpec.scala:1683)
+	at org.scalatest.tools.Framework.org$scalatest$tools$Framework$$runSuite(Framework.scala:444)
+	at org.scalatest.tools.Framework$ScalaTestNestedTask.execute(Framework.scala:529)
+	at sbt.TestRunner.runTest$1(TestFramework.scala:76)
+	at sbt.TestRunner.run(TestFramework.scala:85)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1$$anonfun$apply$8.apply(TestFramework.scala:202)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1$$anonfun$apply$8.apply(TestFramework.scala:202)
+	at sbt.TestFramework$.sbt$TestFramework$$withContextLoader(TestFramework.scala:185)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1.apply(TestFramework.scala:202)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1.apply(TestFramework.scala:202)
+	at sbt.TestFunction.apply(TestFramework.scala:207)
+	at sbt.Tests$.sbt$Tests$$processRunnable$1(Tests.scala:239)
+	at sbt.Tests$$anonfun$makeSerial$1.apply(Tests.scala:245)
+	at sbt.Tests$$anonfun$makeSerial$1.apply(Tests.scala:245)
+	at sbt.std.Transform$$anon$3$$anonfun$apply$2.apply(System.scala:44)
+	at sbt.std.Transform$$anon$3$$anonfun$apply$2.apply(System.scala:44)
+	at sbt.std.Transform$$anon$4.work(System.scala:63)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:226)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:226)
+	at sbt.ErrorHandling$.wideConvert(ErrorHandling.scala:17)
+	at sbt.Execute.work(Execute.scala:235)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:226)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:226)
+	at sbt.ConcurrentRestrictions$$anon$4$$anonfun$1.apply(ConcurrentRestrictions.scala:159)
+	at sbt.CompletionService$$anon$2.call(CompletionService.scala:28)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+                                               </testcase>
+                     <system-out></system-out>
+                     <system-err></system-err>
+                   </testsuite>

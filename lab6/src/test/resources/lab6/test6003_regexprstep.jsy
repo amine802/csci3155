@@ -1,0 +1,12 @@
+// The following lines require integrating the your regular
+// expression matcher into your JavaScripty interpreter.
+const a_re = /^a*$/
+const a_string = "aaaaa"
+console.log(a_re.test(a_string))
+;
+
+/^ab$/.test("a" + "b")
+;
+
+const f = function (r: RegExp) { return r }
+f(/^a$/).test("abc")

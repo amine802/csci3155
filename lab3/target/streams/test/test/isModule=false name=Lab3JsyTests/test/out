@@ -1,0 +1,102 @@
+[0m[[0minfo[0m] [0m[32mLab3JsyTests:[0m[0m
+[0m[[0minfo[0m] [0m[32meval on src/test/resources/lab3/test3003_call.jsy[0m[0m
+[0m[[0minfo[0m] [0m[31m- should match src/test/resources/lab3/test3003_call.ans *** FAILED *** (205 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[31m  Computed output does not match expected output.[0m[0m
+[0m[[0minfo[0m] [0m[31m  Computed:[0m[0m
+[0m[[0minfo[0m] [0m[31m  ============================================================[0m[0m
+[0m[[0minfo[0m] [0m[31m  File: test3003_call.jsy[0m[0m
+[0m[[0minfo[0m] [0m[31m  Parsing ...[0m[0m
+[0m[[0minfo[0m] [0m[31m  ------------------------------------------------------------[0m[0m
+[0m[[0minfo[0m] [0m[31m  Evaluating with step ...[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 0: ConstDecl(w,Function(None,y,Binary(Minus,Var(y),N(7.0))),Print(Call(Var(w),N(4.3))))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 1: Print(Call(Function(None,y,Binary(Minus,Var(y),N(7.0))),N(4.3)))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 2: Print(Binary(Minus,N(4.3),N(7.0)))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 3: Print(N(-2.7))[0m[0m
+[0m[[0minfo[0m] [0m[31m  -2.7[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 4: Undefined[0m[0m
+[0m[[0minfo[0m] [0m[31m  Value: Undefined[0m[0m
+[0m[[0minfo[0m] [0m[31m  undefined[0m[0m
+[0m[[0minfo[0m] [0m  [0m
+[0m[[0minfo[0m] [0m[31m  Expected:[0m[0m
+[0m[[0minfo[0m] [0m[31m  -2.7[0m[0m
+[0m[[0minfo[0m] [0m[31m  undefined (JavascriptyTester.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[32meval on src/test/resources/lab3/test3005_curry.jsy[0m[0m
+[0m[[0minfo[0m] [0m[31m- should match src/test/resources/lab3/test3005_curry.ans *** FAILED *** (27 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[31m  Computed output does not match expected output.[0m[0m
+[0m[[0minfo[0m] [0m[31m  Computed:[0m[0m
+[0m[[0minfo[0m] [0m[31m  ============================================================[0m[0m
+[0m[[0minfo[0m] [0m[31m  File: test3005_curry.jsy[0m[0m
+[0m[[0minfo[0m] [0m[31m  Parsing ...[0m[0m
+[0m[[0minfo[0m] [0m[31m  ------------------------------------------------------------[0m[0m
+[0m[[0minfo[0m] [0m[31m  Evaluating with step ...[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 0: ConstDecl(g,Function(None,x,Function(None,y,Binary(And,Var(x),Var(y)))),Binary(Plus,Call(Call(Var(g),N(1.0)),N(0.0)),N(0.1)))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 1: Binary(Plus,Call(Call(Function(None,x,Function(None,y,Binary(And,Var(x),Var(y)))),N(1.0)),N(0.0)),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 2: Binary(Plus,Call(Function(None,y,Binary(And,N(1.0),Var(y))),N(0.0)),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 3: Binary(Plus,Binary(And,N(1.0),N(0.0)),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 4: Binary(Plus,N(0.0),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 5: N(0.1)[0m[0m
+[0m[[0minfo[0m] [0m[31m  Value: N(0.1)[0m[0m
+[0m[[0minfo[0m] [0m[31m  0.1[0m[0m
+[0m[[0minfo[0m] [0m  [0m
+[0m[[0minfo[0m] [0m[31m  Expected:[0m[0m
+[0m[[0minfo[0m] [0m[31m  0.1 (JavascriptyTester.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[32meval on src/test/resources/lab3/test3007_call.jsy[0m[0m
+[0m[[0minfo[0m] [0m[31m- should match src/test/resources/lab3/test3007_call.ans *** FAILED *** (43 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[31m  Computed output does not match expected output.[0m[0m
+[0m[[0minfo[0m] [0m[31m  Computed:[0m[0m
+[0m[[0minfo[0m] [0m[31m  ============================================================[0m[0m
+[0m[[0minfo[0m] [0m[31m  File: test3007_call.jsy[0m[0m
+[0m[[0minfo[0m] [0m[31m  Parsing ...[0m[0m
+[0m[[0minfo[0m] [0m[31m  ------------------------------------------------------------[0m[0m
+[0m[[0minfo[0m] [0m[31m  Evaluating with step ...[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 0: ConstDecl(f,Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Plus,Call(Var(f),N(8.0)),N(0.1)))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 1: Binary(Plus,Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(8.0)),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 2: Binary(Plus,If(Binary(Eq,N(8.0),N(0.0)),N(1.0),Binary(Times,N(8.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(8.0),N(1.0))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 3: Binary(Plus,If(B(false),N(1.0),Binary(Times,N(8.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(8.0),N(1.0))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 4: Binary(Plus,Binary(Times,N(8.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(8.0),N(1.0)))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 5: Binary(Plus,Binary(Times,N(8.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(7.0))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 6: Binary(Plus,Binary(Times,N(8.0),If(Binary(Eq,N(7.0),N(0.0)),N(1.0),Binary(Times,N(7.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(7.0),N(1.0)))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 7: Binary(Plus,Binary(Times,N(8.0),If(B(false),N(1.0),Binary(Times,N(7.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(7.0),N(1.0)))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 8: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(7.0),N(1.0))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 9: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(6.0)))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 10: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),If(Binary(Eq,N(6.0),N(0.0)),N(1.0),Binary(Times,N(6.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(6.0),N(1.0))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 11: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),If(B(false),N(1.0),Binary(Times,N(6.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(6.0),N(1.0))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 12: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(6.0),N(1.0)))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 13: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(5.0))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 14: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),If(Binary(Eq,N(5.0),N(0.0)),N(1.0),Binary(Times,N(5.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(5.0),N(1.0)))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 15: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),If(B(false),N(1.0),Binary(Times,N(5.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(5.0),N(1.0)))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 16: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(5.0),N(1.0))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 17: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(4.0)))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 18: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),If(Binary(Eq,N(4.0),N(0.0)),N(1.0),Binary(Times,N(4.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(4.0),N(1.0))))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 19: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),If(B(false),N(1.0),Binary(Times,N(4.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(4.0),N(1.0))))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 20: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(4.0),N(1.0)))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 21: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(3.0))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 22: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),If(Binary(Eq,N(3.0),N(0.0)),N(1.0),Binary(Times,N(3.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(3.0),N(1.0)))))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 23: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),If(B(false),N(1.0),Binary(Times,N(3.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(3.0),N(1.0)))))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 24: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(3.0),N(1.0))))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 25: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(2.0)))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 26: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),If(Binary(Eq,N(2.0),N(0.0)),N(1.0),Binary(Times,N(2.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(2.0),N(1.0))))))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 27: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),If(B(false),N(1.0),Binary(Times,N(2.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(2.0),N(1.0))))))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 28: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(2.0),N(1.0)))))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 29: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(1.0))))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 30: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),If(Binary(Eq,N(1.0),N(0.0)),N(1.0),Binary(Times,N(1.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(1.0),N(1.0)))))))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 31: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),If(B(false),N(1.0),Binary(Times,N(1.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(1.0),N(1.0)))))))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 32: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Binary(Times,N(1.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(1.0),N(1.0))))))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 33: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Binary(Times,N(1.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),N(0.0)))))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 34: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Binary(Times,N(1.0),If(Binary(Eq,N(0.0),N(0.0)),N(1.0),Binary(Times,N(0.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(0.0),N(1.0))))))))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 35: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Binary(Times,N(1.0),If(B(true),N(1.0),Binary(Times,N(0.0),Call(Function(Some(f),x,If(Binary(Eq,Var(x),N(0.0)),N(1.0),Binary(Times,Var(x),Call(Var(f),Binary(Minus,Var(x),N(1.0)))))),Binary(Minus,N(0.0),N(1.0))))))))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 36: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),Binary(Times,N(1.0),N(1.0))))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 37: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),Binary(Times,N(2.0),N(1.0)))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 38: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),Binary(Times,N(3.0),N(2.0))))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 39: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),Binary(Times,N(4.0),N(6.0)))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 40: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),Binary(Times,N(5.0),N(24.0))))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 41: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),Binary(Times,N(6.0),N(120.0)))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 42: Binary(Plus,Binary(Times,N(8.0),Binary(Times,N(7.0),N(720.0))),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 43: Binary(Plus,Binary(Times,N(8.0),N(5040.0)),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 44: Binary(Plus,N(40320.0),N(0.1))[0m[0m
+[0m[[0minfo[0m] [0m[31m  Step 45: N(40320.1)[0m[0m
+[0m[[0minfo[0m] [0m[31m  Value: N(40320.1)[0m[0m
+[0m[[0minfo[0m] [0m[31m  40320.1[0m[0m
+[0m[[0minfo[0m] [0m  [0m
+[0m[[0minfo[0m] [0m[31m  Expected:[0m[0m
+[0m[[0minfo[0m] [0m[31m  40320.1 (JavascriptyTester.scala:22)[0m[0m

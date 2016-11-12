@@ -1,0 +1,112 @@
+# Type checking ...
+## Undefined
+# Stepping ...
+##    0:
+##  Map()
+##  Binary(Seq,Print(Call(GetField(RE(RAnyChar),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RAnyChar),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(aa)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b))))))))))))))
+##    1:
+##  Map()
+##  Binary(Seq,Print(B(true)),Binary(Seq,Print(Call(GetField(RE(RAnyChar),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(aa)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b))))))))))))))
+true
+##    2:
+##  Map()
+##  Binary(Seq,Undefined,Binary(Seq,Print(Call(GetField(RE(RAnyChar),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(aa)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b))))))))))))))
+##    3:
+##  Map()
+##  Binary(Seq,Print(Call(GetField(RE(RAnyChar),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(aa)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b)))))))))))))
+##    4:
+##  Map()
+##  Binary(Seq,Print(B(false)),Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(aa)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b)))))))))))))
+false
+##    5:
+##  Map()
+##  Binary(Seq,Undefined,Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(aa)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b)))))))))))))
+##    6:
+##  Map()
+##  Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(aa)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b))))))))))))
+##    7:
+##  Map()
+##  Binary(Seq,Print(B(true)),Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(aa)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b))))))))))))
+true
+##    8:
+##  Map()
+##  Binary(Seq,Undefined,Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(aa)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b))))))))))))
+##    9:
+##  Map()
+##  Binary(Seq,Print(Call(GetField(RE(RSingle(a)),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(aa)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b)))))))))))
+##   10:
+##  Map()
+##  Binary(Seq,Print(B(false)),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(aa)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b)))))))))))
+false
+##   11:
+##  Map()
+##  Binary(Seq,Undefined,Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(aa)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b)))))))))))
+##   12:
+##  Map()
+##  Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(aa)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b))))))))))
+##   13:
+##  Map()
+##  Binary(Seq,Print(B(false)),Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(aa)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b))))))))))
+false
+##   14:
+##  Map()
+##  Binary(Seq,Undefined,Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(aa)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b))))))))))
+##   15:
+##  Map()
+##  Binary(Seq,Print(Call(GetField(RE(RConcat(RSingle(a),RSingle(a))),test),List(S(aa)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b)))))))))
+##   16:
+##  Map()
+##  Binary(Seq,Print(B(true)),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b)))))))))
+true
+##   17:
+##  Map()
+##  Binary(Seq,Undefined,Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b)))))))))
+##   18:
+##  Map()
+##  Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(a)))),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b))))))))
+##   19:
+##  Map()
+##  Binary(Seq,Print(B(true)),Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b))))))))
+true
+##   20:
+##  Map()
+##  Binary(Seq,Undefined,Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b))))))))
+##   21:
+##  Map()
+##  Binary(Seq,Print(Call(GetField(RE(RUnion(RSingle(a),RSingle(b))),test),List(S(b)))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b)))))))
+##   22:
+##  Map()
+##  Binary(Seq,Print(B(true)),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b)))))))
+true
+##   23:
+##  Map()
+##  Binary(Seq,Undefined,Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b)))))))
+##   24:
+##  Map()
+##  Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S()))),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b))))))
+##   25:
+##  Map()
+##  Binary(Seq,Print(B(true)),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b))))))
+true
+##   26:
+##  Map()
+##  Binary(Seq,Undefined,Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b))))))
+##   27:
+##  Map()
+##  Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaa)))),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b)))))
+##   28:
+##  Map()
+##  Binary(Seq,Print(B(true)),Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b)))))
+true
+##   29:
+##  Map()
+##  Binary(Seq,Undefined,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b)))))
+##   30:
+##  Map()
+##  Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(b))))
+##   31:
+##  Map()
+##  Print(B(false))
+false
+## Map()
+undefined

@@ -1,0 +1,39 @@
+# Type checking ...
+## bool
+# Stepping ...
+##    0:
+##  Map()
+##  Decl(MConst,a_re,RE(RStar(RSingle(a))),Decl(MConst,a_string,S(aaaaa),Binary(Seq,Print(Call(GetField(Var(a_re),test),List(Var(a_string)))),Binary(Seq,Call(GetField(RE(RConcat(RSingle(a),RSingle(b))),test),List(Binary(Plus,S(a),S(b)))),Decl(MConst,f,Function(None,Left(List((r,TRegExp))),None,Var(r)),Call(GetField(Call(Var(f),List(RE(RSingle(a)))),test),List(S(abc))))))))
+##    1:
+##  Map()
+##  Decl(MConst,a_string,S(aaaaa),Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(Var(a_string)))),Binary(Seq,Call(GetField(RE(RConcat(RSingle(a),RSingle(b))),test),List(Binary(Plus,S(a),S(b)))),Decl(MConst,f,Function(None,Left(List((r,TRegExp))),None,Var(r)),Call(GetField(Call(Var(f),List(RE(RSingle(a)))),test),List(S(abc)))))))
+##    2:
+##  Map()
+##  Binary(Seq,Print(Call(GetField(RE(RStar(RSingle(a))),test),List(S(aaaaa)))),Binary(Seq,Call(GetField(RE(RConcat(RSingle(a),RSingle(b))),test),List(Binary(Plus,S(a),S(b)))),Decl(MConst,f,Function(None,Left(List((r,TRegExp))),None,Var(r)),Call(GetField(Call(Var(f),List(RE(RSingle(a)))),test),List(S(abc))))))
+##    3:
+##  Map()
+##  Binary(Seq,Print(B(true)),Binary(Seq,Call(GetField(RE(RConcat(RSingle(a),RSingle(b))),test),List(Binary(Plus,S(a),S(b)))),Decl(MConst,f,Function(None,Left(List((r,TRegExp))),None,Var(r)),Call(GetField(Call(Var(f),List(RE(RSingle(a)))),test),List(S(abc))))))
+true
+##    4:
+##  Map()
+##  Binary(Seq,Undefined,Binary(Seq,Call(GetField(RE(RConcat(RSingle(a),RSingle(b))),test),List(Binary(Plus,S(a),S(b)))),Decl(MConst,f,Function(None,Left(List((r,TRegExp))),None,Var(r)),Call(GetField(Call(Var(f),List(RE(RSingle(a)))),test),List(S(abc))))))
+##    5:
+##  Map()
+##  Binary(Seq,Call(GetField(RE(RConcat(RSingle(a),RSingle(b))),test),List(Binary(Plus,S(a),S(b)))),Decl(MConst,f,Function(None,Left(List((r,TRegExp))),None,Var(r)),Call(GetField(Call(Var(f),List(RE(RSingle(a)))),test),List(S(abc)))))
+##    6:
+##  Map()
+##  Binary(Seq,Call(GetField(RE(RConcat(RSingle(a),RSingle(b))),test),List(S(ab))),Decl(MConst,f,Function(None,Left(List((r,TRegExp))),None,Var(r)),Call(GetField(Call(Var(f),List(RE(RSingle(a)))),test),List(S(abc)))))
+##    7:
+##  Map()
+##  Binary(Seq,B(true),Decl(MConst,f,Function(None,Left(List((r,TRegExp))),None,Var(r)),Call(GetField(Call(Var(f),List(RE(RSingle(a)))),test),List(S(abc)))))
+##    8:
+##  Map()
+##  Decl(MConst,f,Function(None,Left(List((r,TRegExp))),None,Var(r)),Call(GetField(Call(Var(f),List(RE(RSingle(a)))),test),List(S(abc))))
+##    9:
+##  Map()
+##  Call(GetField(Call(Function(None,Left(List((r,TRegExp))),None,Var(r)),List(RE(RSingle(a)))),test),List(S(abc)))
+##   10:
+##  Map()
+##  Call(GetField(RE(RSingle(a)),test),List(S(abc)))
+## Map()
+false

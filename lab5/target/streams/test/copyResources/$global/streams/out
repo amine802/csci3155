@@ -1,0 +1,20 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5001_vardecl.ans,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5001_vardecl.ans)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5001_vardecl.jsy,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5001_vardecl.jsy)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5002_assign.ans,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5002_assign.ans)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5002_assign.jsy,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5002_assign.jsy)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5005_varparamassign.ans,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5005_varparamassign.ans)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5005_varparamassign.jsy,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5005_varparamassign.jsy)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5008_refparamassign.ans,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5008_refparamassign.ans)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5008_refparamassign.jsy,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5008_refparamassign.jsy)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5012_nullderef.ans,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5012_nullderef.ans)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5012_nullderef.jsy,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5012_nullderef.jsy)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5013_badcast.ans,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5013_badcast.ans)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5013_badcast.jsy,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5013_badcast.jsy)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5015_objalias.ans,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5015_objalias.ans)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5015_objalias.jsy,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5015_objalias.jsy)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5018_while.ans,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5018_while.ans)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5018_while.jsy,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5018_while.jsy)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5105_interfaceWhileList.ans,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5105_interfaceWhileList.ans)[0m
+[0m[[0mdebug[0m] [0m	(/Users/smeharzi/Desktop/csci3155/lab5/src/test/resources/lab5/test5105_interfaceWhileList.jsy,/Users/smeharzi/Desktop/csci3155/lab5/target/scala-2.10/test-classes/lab5/test5105_interfaceWhileList.jsy)[0m

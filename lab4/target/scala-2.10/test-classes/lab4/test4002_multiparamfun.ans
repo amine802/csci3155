@@ -1,0 +1,5 @@
+# Type checking ...
+StaticTypeError
+test4002_multiparamfun.jsy:1:43: invalid type Undefined for sub-expression If(Var(y),Binary(Plus,Var(x),N(1.0)),Binary(Minus,Var(x),N(1.0))) in Function(Some(f),List((x,TNumber), (y,TBool)),None,If(Var(y),Binary(Plus,Var(x),N(1.0)),Binary(Minus,Var(x),N(1.0))))
+function f(x: number, y: bool) { return y ? x + 1 : x - 1 } (4, true)
+                                          ^
