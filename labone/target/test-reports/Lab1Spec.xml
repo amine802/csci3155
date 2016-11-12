@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="rgnt1-0-87-dhcp.int.colorado.edu" name="Lab1Spec" tests="24" errors="0" failures="0" time="0.194">
+                     <properties>
+      <property name="jline.esc.timeout" value="0"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib"/><property name="java.vm.version" value="25.66-b17"/><property name="gopherProxySet" value="false"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="path.separator" value=":"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="US"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/Users/smeharzi/Desktop/csci3155/lab1"/><property name="java.runtime.version" value="1.8.0_66-b17"/><property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/><property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/endorsed"/><property name="os.arch" value="x86_64"/><property name="java.io.tmpdir" value="/var/folders/ts/6z11vbq92tn9y6rc4x1vr1lc0000gp/T/"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="os.name" value="Mac OS X"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="java.library.path" value="/Users/smeharzi/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.version" value="10.11.2"/><property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="user.home" value="/Users/smeharzi"/><property name="user.timezone" value="America/Denver"/><property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/usr/local/Cellar/sbt/0.13.9/libexec/sbt-launch.jar"/><property name="user.name" value="smeharzi"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/usr/local/Cellar/sbt/0.13.9/libexec/sbt-launch.jar test"/><property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="en"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_66"/><property name="java.ext.dirs" value="/Users/smeharzi/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/><property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="sun.cpu.endian" value="little"/><property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="Lab1Spec" name="abs should evaluate to the absolute value of the argument" time="0.011">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="xor should evaluate to the exclusive or of the arguments" time="0.0">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="repeat should evaluate to repeated concatenation of a string" time="0.001">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="repeat should evaluate to an empty string when repeated zero times" time="0.0">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="repeat should throw an exception when a negative number of repetitions is expected" time="0.035">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="sqrtStep should evaluate to one iteration of Newton's method" time="0.0">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="sqrtN should perform several iterations of sqrtStep" time="0.001">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="sqrtN should evaluate to x0 if n is zero" time="0.0">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="sqrtErr should perform iterations until the error is within epsilon" time="0.0">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="sqrtN should throw an exception when n is negative" time="0.002">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="sqrtErr should throw an exception when using a non-positive epsilon" time="0.002">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="repOk should ensure that a SearchTree is properly ordered" time="0.0">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="insert should insert numbers as leaves in SearchTrees at the proper position" time="0.0">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="deleteMin should remove the smallest value from a tree, and provide the resulting tree" time="0.001">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="delete should remove a given value from a tree, if present" time="0.001">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="insert should produce trees that satisfy repOk" time="0.001">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="insert-delete should produce tress that satisfy repOk" time="0.003">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="eval+ should perform addition" time="0.09">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="eval- should perform subtraction" time="0.002">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="eval* should perform multiplication" time="0.002">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="eval/ should perform division" time="0.002">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="eval/0 should division by 0 should yield Infinity" time="0.006">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="ans" time="0.032">
+                                                 
+                                               </testcase><testcase classname="Lab1Spec" name="ans" time="0.002">
+                                                 
+                                               </testcase>
+                     <system-out></system-out>
+                     <system-err></system-err>
+                   </testsuite>

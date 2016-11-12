@@ -1,0 +1,49 @@
+[0m[[0minfo[0m] [0m[32mLab1Spec:[0m[0m
+[0m[[0minfo[0m] [0m[32mabs[0m[0m
+[0m[[0minfo[0m] [0m[32m- should evaluate to the absolute value of the argument (11 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32mxor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should evaluate to the exclusive or of the arguments (0 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32mrepeat[0m[0m
+[0m[[0minfo[0m] [0m[32m- should evaluate to repeated concatenation of a string (1 millisecond)[0m[0m
+[0m[[0minfo[0m] [0m[32mrepeat[0m[0m
+[0m[[0minfo[0m] [0m[32m- should evaluate to an empty string when repeated zero times (0 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32mrepeat[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw an exception when a negative number of repetitions is expected (35 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32msqrtStep[0m[0m
+[0m[[0minfo[0m] [0m[32m- should evaluate to one iteration of Newton's method (0 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32msqrtN[0m[0m
+[0m[[0minfo[0m] [0m[32m- should perform several iterations of sqrtStep (1 millisecond)[0m[0m
+[0m[[0minfo[0m] [0m[32msqrtN[0m[0m
+[0m[[0minfo[0m] [0m[32m- should evaluate to x0 if n is zero (0 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32msqrtErr[0m[0m
+[0m[[0minfo[0m] [0m[32m- should perform iterations until the error is within epsilon (0 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32msqrtN[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw an exception when n is negative (2 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32msqrtErr[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw an exception when using a non-positive epsilon (2 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32mrepOk[0m[0m
+[0m[[0minfo[0m] [0m[32m- should ensure that a SearchTree is properly ordered (0 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32minsert[0m[0m
+[0m[[0minfo[0m] [0m[32m- should insert numbers as leaves in SearchTrees at the proper position (0 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32mdeleteMin[0m[0m
+[0m[[0minfo[0m] [0m[32m- should remove the smallest value from a tree, and provide the resulting tree (1 millisecond)[0m[0m
+[0m[[0minfo[0m] [0m[32mdelete[0m[0m
+[0m[[0minfo[0m] [0m[32m- should remove a given value from a tree, if present (1 millisecond)[0m[0m
+[0m[[0minfo[0m] [0m[32minsert[0m[0m
+[0m[[0minfo[0m] [0m[32m- should produce trees that satisfy repOk (1 millisecond)[0m[0m
+[0m[[0minfo[0m] [0m[32minsert-delete[0m[0m
+[0m[[0minfo[0m] [0m[32m- should produce tress that satisfy repOk (3 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32meval+[0m[0m
+[0m[[0minfo[0m] [0m[32m- should perform addition (90 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32meval-[0m[0m
+[0m[[0minfo[0m] [0m[32m- should perform subtraction (2 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32meval*[0m[0m
+[0m[[0minfo[0m] [0m[32m- should perform multiplication (2 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32meval/[0m[0m
+[0m[[0minfo[0m] [0m[32m- should perform division (2 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32meval/0[0m[0m
+[0m[[0minfo[0m] [0m[32m- should division by 0 should yield Infinity (6 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32meval on src/test/resources/lab1/test101_arith.jsy[0m[0m
+[0m[[0minfo[0m] [0m[32m- should match src/test/resources/lab1/test101_arith.ans (32 milliseconds)[0m[0m
+[0m[[0minfo[0m] [0m[32meval on src/test/resources/lab1/test102_divbyzero.jsy[0m[0m
+[0m[[0minfo[0m] [0m[32m- should match src/test/resources/lab1/test102_divbyzero.ans (2 milliseconds)[0m[0m

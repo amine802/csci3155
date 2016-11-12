@@ -1,0 +1,277 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+35 items
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$1.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$10$$anonfun$apply$mcV$sp$1.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$10.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$11$$anonfun$apply$mcV$sp$2.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$11$$anonfun$apply$mcV$sp$3.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$11.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$12.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$13.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$14.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$15.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$16.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$23$$anonfun$apply$2.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$23.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$24$$anonfun$apply$3.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$24.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$apply$mcV$sp$5.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$18.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$19.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$2.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$20.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$21.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$22.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$25$$anonfun$apply$1.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$25.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$3.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$4.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$5$$anonfun$apply$mcV$sp$4.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$5.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$6.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$7.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$8.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$9.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$treeFromList$1.class
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec.class
+binary dependencies:
+3 items
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/.ivy2/cache/org.scalatest/scalatest_2.10/jars/scalatest_2.10-2.0.jar
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /Users/smeharzi/.sbt/boot/scala-2.10.5/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+2 items
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> jsy.student.Lab1$
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> jsy.util.JsyApplication
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+35 items
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$1
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$10
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$10$$anonfun$apply$mcV$sp$1
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$11
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$11$$anonfun$apply$mcV$sp$2
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$11$$anonfun$apply$mcV$sp$3
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$12
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$13
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$14
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$15
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$16
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$17
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$17$$anonfun$23
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$17$$anonfun$23$$anonfun$apply$2
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$17$$anonfun$24
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$17$$anonfun$24$$anonfun$apply$3
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$17$$anonfun$apply$mcV$sp$5
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$18
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$19
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$2
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$20
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$21
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$22
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$25
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$25$$anonfun$apply$1
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$3
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$4
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$5
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$5$$anonfun$apply$mcV$sp$4
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$6
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$7
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$8
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$9
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec$$anonfun$treeFromList$1
+used names:
+91 items
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> $org_scalatest_assert_macro_left
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> $org_scalatest_assert_macro_result
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> $org_scalatest_assert_macro_right
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> /:
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> <init>
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> ===
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Boolean
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Empty
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Equality
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> File
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> FlatSpec
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> IllegalArgumentException
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Int
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Lab1Spec
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> List
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> ManifestFactory
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> None
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> Predef
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> SearchTree
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> String
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> StringContext
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> _1
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> _2
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> _3
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> abs
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> ans
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> apply
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> assert
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> assertion
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> assertionsHelper
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> b
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> classType
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> convertToEqualizer
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> convertToInAndIgnoreMethods
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> convertToStringShouldWrapper
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> default
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> del
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> delete
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> deleteMin
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> eval
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> f
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> immutable
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> in
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> ins
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> insert
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> intercept
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> io
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> java
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> jsy
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> l
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> lang
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> macroAssert
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> msg
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> n
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> ne
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> org
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> package
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> reflect
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> repOk
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> repeat
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> s
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> scala
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> scalatest
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> scalautils
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> separator
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> shorthandTestRegistrationFunction
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> should
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> sqrtErr
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> sqrtN
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> sqrtStep
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> student
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> t
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> t1
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> t10
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> t11
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> t2
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> t3
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> t4
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> t5
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> t6
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> t7
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> t8
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> t9
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> test
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> testDirectory
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> testPrefix
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> treeFromList
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> unary_!
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> unchecked
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> xor
+product stamps:
+35 items
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$1.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$10$$anonfun$apply$mcV$sp$1.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$10.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$11$$anonfun$apply$mcV$sp$2.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$11$$anonfun$apply$mcV$sp$3.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$11.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$12.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$13.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$14.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$15.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$16.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$23$$anonfun$apply$2.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$23.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$24$$anonfun$apply$3.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$24.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17$$anonfun$apply$mcV$sp$5.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$17.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$18.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$19.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$2.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$20.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$21.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$22.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$25$$anonfun$apply$1.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$25.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$3.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$4.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$5$$anonfun$apply$mcV$sp$4.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$5.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$6.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$7.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$8.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$9.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec$$anonfun$treeFromList$1.class -> lastModified(1453414534000)
+/Users/smeharzi/Desktop/csci3155/lab1/target/scala-2.10/test-classes/Lab1Spec.class -> lastModified(1453414534000)
+source stamps:
+1 items
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> hash(efba37136b05e483d63c6ab0e7061d9206005276)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1444173647000)
+/Users/smeharzi/.ivy2/cache/org.scalatest/scalatest_2.10/jars/scalatest_2.10-2.0.jar -> lastModified(1396785837000)
+/Users/smeharzi/.sbt/boot/scala-2.10.5/lib/scala-library.jar -> lastModified(1425520576000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar -> java.io.File
+/Users/smeharzi/.ivy2/cache/org.scalatest/scalatest_2.10/jars/scalatest_2.10-2.0.jar -> org.scalatest.FlatSpec
+/Users/smeharzi/.sbt/boot/scala-2.10.5/lib/scala-library.jar -> scala.Tuple2$
+internal apis:
+1 items
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBPVmKGAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAJc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwDUrU4HQAGmNvbnZlcnRUb1N0cmluZ011c3RXcmFwcGVyc3EAfgALsE0vV3QAGWNvbnZlcnRUb1N0cmluZ0NhbldyYXBwZXJzcQB+AAsUPRS+dAASY29udmVydFRvRXF1YWxpemVyc3EAfgALBYuD33QAKGNvbnZlcnRUb0luQW5kSWdub3JlTWV0aG9kc0FmdGVyVGFnZ2VkQXNzcQB+AAvAwFBPdAAnc2hvcnRoYW5kU2hhcmVkVGVzdFJlZ2lzdHJhdGlvbkZ1bmN0aW9uc3EAfgALQZ0GpXQAFXVuY29uc3RyYWluZWRFcXVhbGl0eXNxAH4AC3wEh1N0ABtjb252ZXJ0VG9JbkFuZElnbm9yZU1ldGhvZHNzcQB+AAvsK7PYdAAcY29udmVydFRvU3RyaW5nU2hvdWxkV3JhcHBlcnNxAH4AC/3S9Q50ACFzaG9ydGhhbmRUZXN0UmVnaXN0cmF0aW9uRnVuY3Rpb251cQB+AAkAAACQc3EAfgALYA5ZBXQABmFzc2VydHNxAH4ACzj1zLJ0AAZub3RpZnlzcQB+AAvHSgsodAAmbG93UHJpb3JpdHlDb252ZXJzaW9uQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAsIthhGdAAHZ2V0VGFnc3NxAH4AC8VAY9R0ABBBc3NlcnRpb25zSGVscGVyc3EAfgALQK3K5XQABmNhbmNlbHNxAH4ACw2GsbV0ABFleGVjdXRlJGRlZmF1bHQkMnNxAH4ACxpAa9V0AAxleHBlY3RSZXN1bHRzcQB+AAtmrmazdAAJaW50ZXJjZXB0c3EAfgALwcQi3HQABGZhaWxzcQB+AAs0AWR0dAAUSXRWZXJiU3RyaW5nVGFnZ2VkQXNzcQB+AAvactzbdAAEbmFtZXNxAH4AC+uoq590AAJ0NHNxAH4AC5JI5cx0AAJ0NXNxAH4AC54dVaF0AAJpbnNxAH4AC4MNLf50ABFleGVjdXRlJGRlZmF1bHQkNHNxAH4ACzKq9090AAJpc3NxAH4AC1qyTbl0AAdleGVjdXRlc3EAfgALM4H2fHQABHdhaXRzcQB+AAs7gX+edAARcmVnaXN0ZXJUZXN0VG9SdW5zcQB+AAsaHfzadAALdGVzdERhdGFGb3JzcQB+AAul3HxGdAATY3JlYXRlQ2F0Y2hSZXBvcnRlcnNxAH4AC82KBTN0AAlzdHlsZU5hbWVzcQB+AAsLrnTddAANbGVmdFNpZGVWYWx1ZXNxAH4AC0QWLiV0AA0kYXNJbnN0YW5jZU9mc3EAfgAL4C6RhXQAEWV4ZWN1dGUkZGVmYXVsdCQzc3EAfgALUr6OqHQAAnQ5c3EAfgALNuxwBHQACWNvbmZpZ01hcHNxAH4AC+DLmAV0AAtkaWZmU3RyaW5nc3NxAH4AC6fq0+l0AAZlcXVhbHNzcQB+AAuKOQ/TdAAsY29udmVydEVxdWl2YWxlbmNlVG9BVG9CQ29udmVyc2lvbkNvbnN0cmFpbnRzcQB+AAvBOIcMdAAPZGVmYXVsdEVxdWFsaXR5c3EAfgALCz3IY3QAImNvbnZlcnRFcXVpdmFsZW5jZVRvQVRvQkNvbnN0cmFpbnRzcQB+AAsYoqDmdAAEbXVzdHNxAH4AC5BT+uV0AAR0YWdzc3EAfgALC2arZ3QADGFzSW5zdGFuY2VPZnNxAH4ACzcFVpd0AAVhbGVydHNxAH4ACzX+thd0AANydW5zcQB+AAvj0EERdAAJc3VwZXIkcnVuc3EAfgALWv7mzXQAD0xlZ2FjeUVxdWFsaXplcnNxAH4AC5tsH3d0AAZzY29wZXNzcQB+AAut6dpGdAAYY29udmVydFRvTGVnYWN5RXF1YWxpemVyc3EAfgALZICO1nQADHN5bmNocm9uaXplZHNxAH4ACyTsBdJ0AARsZWZ0c3EAfgALFjOLrnQAAml0c3EAfgAL97sujnQACExhYjFTcGVjc3EAfgALRxoUb3QADSRpc0luc3RhbmNlT2ZzcQB+AAtJ4M0bdAAEdHJhcHNxAH4AC0eeQAF0AAJ0M3NxAH4AC4Jfxh90ABV0ZXN0RGF0YUZvciRkZWZhdWx0JDJzcQB+AAsUhXPVdAASSW5BbmRJZ25vcmVNZXRob2Rzc3EAfgALfSQlTXQADGFzc2VydFJlc3VsdHNxAH4AC2Hgihp0AAJ0NnNxAH4ACyC/MIh0ABdTdHJpbmdDYW5XcmFwcGVyRm9yVmVyYnNxAH4AC53X2iF0AAR0ZXh0c3EAfgALjXZ6InQALGNvbnZlcnRFcXVpdmFsZW5jZVRvQlRvQUNvbnZlcnNpb25Db25zdHJhaW50c3EAfgALOipfznQAFHJlZ2lzdGVyVGVzdFRvSWdub3Jlc3EAfgAL98kpY3QABHRoZXlzcQB+AAu9MwbhdAARZXhlY3V0ZSRkZWZhdWx0JDdzcQB+AAuZUVGAdAAVdHlwZUNoZWNrZWRDb25zdHJhaW50c3EAfgALBlOv53QAAyE9PXNxAH4AC+Onvc50AARpbmZvc3EAfgALb7EWR3QACW5vdGlmeUFsbHNxAH4ACzyZUX10AAxJdFZlcmJTdHJpbmdzcQB+AAsZaUd7dAALd2l0aEZpeHR1cmVzcQB+AAs2B/zqdAAHcnVuVGVzdHNxAH4AC4RuqGR0AAxpc0luc3RhbmNlT2ZzcQB+AAvJsnj0dAAId2l0aENsdWVzcQB+AAvKmf7IdAAQYXNzZXJ0aW9uc0hlbHBlcnNxAH4AC/o3fHJ0ABFleGVjdXRlJGRlZmF1bHQkNnNxAH4AC2qA8pN0AAh0YWdnZWRBc3NxAH4ACy0BRYx0AAZtYXJrdXBzcQB+AAvUOeBQdAAIbGVmdFNpZGVzcQB+AAtr6PMldAACdDJzcQB+AAun77sldAACdDdzcQB+AAtSOJMFdAAGPGluaXQ+c3EAfgAL1g/v13QAC21hY3JvQXNzdW1lc3EAfgALbp9bfnQAD3J1bk5lc3RlZFN1aXRlc3NxAH4AC+aWwm90AANjYW5zcQB+AAv+VvgVdAAGSXRXb3Jkc3EAfgAL0iBqMHQABWFwcGx5c3EAfgALAGuvRHQACUVxdWFsaXplcnNxAH4AC9qm98l0ABtuZXdBc3NlcnRpb25GYWlsZWRFeGNlcHRpb25zcQB+AAs4pp4YdAAEbm90ZXNxAH4AC+5+kFt0AAI9PXNxAH4AC9N72yF0AB9JbkFuZElnbm9yZU1ldGhvZHNBZnRlclRhZ2dlZEFzc3EAfgALezKaoXQABWNsb25lc3EAfgALl88Vp3QADEJlaGF2aW9yV29yZHNxAH4AC2WYn3R0AAZleHBlY3RzcQB+AAuBiW3mdAAGc2hvdWxkc3EAfgAL+2cyn3QADG5lc3RlZFN1aXRlc3NxAH4AC+Di4Ah0AAZhc3N1bWVzcQB+AAsZ2bp0dAAGJGluaXQkc3EAfgALergVFnQAIGxvd1ByaW9yaXR5VHlwZUNoZWNrZWRDb25zdHJhaW50c3EAfgALiFkVO3QADXRlc3REaXJlY3RvcnlzcQB+AAuoka54dAAIVGhleVdvcmRzcQB+AAvrr3yRdAADdDEwc3EAfgALnH+K/HQAEWV4ZWN1dGUkZGVmYXVsdCQ1c3EAfgALbeyyE3QACnRlc3RQcmVmaXhzcQB+AAvtC30rdAADPT09c3EAfgAL25Qbi3QAAnQ4c3EAfgALDE35jXQAGG5ld1Rlc3RDYW5jZWxlZEV4Y2VwdGlvbnNxAH4AC903Lax0AAh0b1N0cmluZ3NxAH4AC/9Gdqd0AAl0ZXN0TmFtZXNzcQB+AAuwz1gCdAAYU3RyaW5nTXVzdFdyYXBwZXJGb3JWZXJic3EAfgALnta3IXQAEWV4ZWN1dGUkZGVmYXVsdCQxc3EAfgALp6AOaXQAAiE9c3EAfgALhKafE3QADHRyZWVGcm9tTGlzdHNxAH4AC9nRwLZ0ABdMZWdhY3lDaGVja2luZ0VxdWFsaXplcnNxAH4AC7Lo9Vl0ABhJZ25vcmVWZXJiU3RyaW5nVGFnZ2VkQXNzcQB+AAv3JuubdAAIZ2V0Q2xhc3NzcQB+AAv9tuN6dAAGYmVoYXZlc3EAfgALLClJQ3QACHJ1blRlc3Rzc3EAfgALMbq7BnQACGJlaGF2aW9yc3EAfgALELfNvnQAEXBlbmRpbmdVbnRpbEZpeGVkc3EAfgALcT7E73QADlRoZXlWZXJiU3RyaW5nc3EAfgALkD5QJ3QAEWV4cGVjdGVkVGVzdENvdW50c3EAfgALo2OlLnQACHJlcnVubmVyc3EAfgAL9l6S7HQAAnQxc3EAfgALD50pinQAImNvbnZlcnRFcXVpdmFsZW5jZVRvQlRvQUNvbnN0cmFpbnRzcQB+AAudCjbudAACbmVzcQB+AAv2pTxudAAWVGhleVZlcmJTdHJpbmdUYWdnZWRBc3NxAH4AC8MbrNF0ABFDaGVja2luZ0VxdWFsaXplcnNxAH4AC9T6aIZ0ACBjb252ZXJ0VG9MZWdhY3lDaGVja2luZ0VxdWFsaXplcnNxAH4ACxl7uFt0AAdwZW5kaW5nc3EAfgALt/6GJXQABmlnbm9yZXNxAH4ACxdNwtl0ABBJZ25vcmVWZXJiU3RyaW5nc3EAfgAL/50iN3QAC21hY3JvQXNzZXJ0c3EAfgALid0UMXQAAmVxc3EAfgALGd7UFXQAG2dldE9iamVjdHNGb3JGYWlsdXJlTWVzc2FnZXNxAH4AC59R02d0ABpjb252ZXJ0VG9DaGVja2luZ0VxdWFsaXplcnNxAH4AC1NzOu50AAJvZnNxAH4AC6A5Kh10AAlOb0FyZ1Rlc3RzcQB+AAsxGh/rdAAKSWdub3JlV29yZHNxAH4AC+Cqk250AAN0MTFzcQB+AAuEd35rdAACIyNzcQB+AAvre1EtdAAGZW5naW5lc3EAfgALmPGq5XQAGlN0cmluZ1Nob3VsZFdyYXBwZXJGb3JWZXJic3EAfgALGhvIZHQACGZpbmFsaXplc3EAfgAL6wuvz3QAG2NvbnZlcnNpb25DaGVja2VkQ29uc3RyYWludHNxAH4ACzSoSe90AAhoYXNoQ29kZXNxAH4AC7ndOoF0AAdzdWl0ZUlkc3EAfgAL9nOnlnQACXN1aXRlTmFtZXNxAH4AC9zsVSl0AAZhcHBlbmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgFJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AHt1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ACdzY2FsYS5yZWZsZWN0Lm1hY3Jvcy5pbnRlcm5hbC5tYWNyb0ltcGx0ABBzY2FsYS5kZXByZWNhdGVkc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgFjeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgFiAHBzcQB+AWdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4BSUwACWluaGVyaXRlZHEAfgFJTAAHcGFyZW50c3EAfgFJeHEAfgFrc3EAfgFiAHBzcQB+AWd1cQB+AUQAAAAAc3EAfgFiAHBzcQB+AWd1cQB+AUQAAAAAc3EAfgFiAHBzcQB+AWd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAEXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AWp0AAhGbGF0U3BlY3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4BanNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAADb3Jnc3EAfgGHdAAJc2NhbGF0ZXN0c3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AYhzcQB+AXt0AAxGbGF0U3BlY0xpa2VxAH4BgXNxAH4Be3QAC0RvY3VtZW50aW5ncQB+AYFzcQB+AXt0AAhBbGVydGluZ3EAfgGBc3EAfgF7dAAJTm90aWZ5aW5ncQB+AYFzcQB+AXt0AAlJbmZvcm1pbmdxAH4BgXNxAH4Be3QAB0NhblZlcmJzcQB+AX9zcQB+AYJ1cQB+AYUAAAAEc3EAfgGHdAADb3Jnc3EAfgGHdAAJc2NhbGF0ZXN0c3EAfgGHdAAFd29yZHNxAH4BjnNxAH4Be3QACE11c3RWZXJicQB+AZtzcQB+AXt0AApTaG91bGRWZXJicQB+AZtzcQB+AXt0AAVTdWl0ZXEAfgGBc3EAfgF7dAAMU2VyaWFsaXphYmxlc3EAfgF/c3EAfgGCdXEAfgGFAAAAA3NxAH4Bh3QABGphdmFzcQB+AYd0AAJpb3EAfgGOc3EAfgF7dAANQWJzdHJhY3RTdWl0ZXEAfgGBc3EAfgF7dAAKQXNzZXJ0aW9uc3EAfgGBc3EAfgF7dAAMVHJpcGxlRXF1YWxzc3EAfgF/c3EAfgGCdXEAfgGFAAAAA3NxAH4Bh3QAA29yZ3NxAH4Bh3QACnNjYWxhdXRpbHNxAH4BjnNxAH4Be3QAE1RyaXBsZUVxdWFsc1N1cHBvcnRxAH4BuXNxAH4Be3QABk9iamVjdHNxAH4Bf3NxAH4BgnVxAH4BhQAAAANzcQB+AYdxAH4BsHNxAH4Bh3QABGxhbmdxAH4BjnNxAH4Be3QAA0FueXNxAH4Bf3NxAH4BgnVxAH4BhQAAAAJzcQB+AYd0AAVzY2FsYXEAfgGOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVJmQbVLdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQARC9Vc2Vycy9zbWVoYXJ6aS9EZXNrdG9wL2NzY2kzMTU1L2xhYjEvdGFyZ2V0L3NjYWxhLTIuMTAvdGVzdC1jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU77o3E2sF5IPWPGqw5wYdkgYAUnY=
+external apis:
+2 items
+jsy.student.Lab1$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCulP67AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAARXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cA+WEq90AAZub3RpZnlzcQB+AAzZeCjkdAAFc3FydE5zcQB+AAwTg6qndAAHdW5hcHBseXNxAH4ADKMBpjd0AAphbm9uT3B0aW9uc3EAfgAMz+fWo3QAB2N1cnJpZWRzcQB+AAwbYH87dAAEdGVzdHNxAH4ADKJd5SR0AAR3YWl0c3EAfgAM+bemOHQADmNvcHkkZGVmYXVsdCQyc3EAfgAMPzd/9XQADSRhc0luc3RhbmNlT2ZzcQB+AAyCHQZbdAAJa2VlcEdvaW5nc3EAfgAMThH9znQABmluc2VydHNxAH4ADKynfT90AAxwcm9kdWN0QXJpdHlzcQB+AAxjFUxLdAAEcGx1c3NxAH4ADE32utJ0AAZlcXVhbHNzcQB+AAzpexvRdAAMYXNJbnN0YW5jZU9mc3EAfgAMI7MinHQABXJlcE9rc3EAfgAMX7YtInQADHN5bmNocm9uaXplZHNxAH4ADLixsHZ0AAVpc0pzeXNxAH4ADO5fTbV0AAlkZWxldGVNaW5zcQB+AAwpbXlqdAANJGlzSW5zdGFuY2VPZnNxAH4ADLi5sON0AAROb2Rlc3EAfgAMDPXqvHQABnR1cGxlZHNxAH4ADHRAn150AAdzcXJ0RXJyc3EAfgAMOkwPjHQACGNhbkVxdWFsc3EAfgAMPGn5UHQABG1haW5zcQB+AAzcyXZ9dAANcHJvZHVjdFByZWZpeHNxAH4ADAQWME50AAlub3RpZnlBbGxzcQB+AAzNBpaBdAALcmVhZFJlc29sdmVzcQB+AAzkO4/7dAAFZGVidWdzcQB+AAygIp/edAALZmxhZ09wdGlvbnNzcQB+AAxL0mVjdAAMaXNJbnN0YW5jZU9mc3EAfgAMswBl9XQAB2JhZHBsdXNzcQB+AAzRo/qqdAAEZXZhbHNxAH4ADEj6pOJ0AAY8aW5pdD5zcQB+AAzJgxbKdAAIc3FydFN0ZXBzcQB+AAwDECKMdAAGZG9GaWxlc3EAfgAM8po5xHQABHNxcnRzcQB+AAyTbLKmdAAFYXBwbHlzcQB+AAw+MLeYdAAFRW1wdHlzcQB+AAzpcmARdAABbHNxAH4ADFaUby50AAI9PXNxAH4ADAGZe490AAN4b3JzcQB+AAzJD9/fdAAFY2xvbmVzcQB+AAxlEQVEdAAIbWF4U3RlcHNzcQB+AAwKox49dAAJdGVzdFBsdXMyc3EAfgAMfEJ1BnQAB3Rlc3RKc3lzcQB+AAzYoqjLdAAGZGVsZXRlc3EAfgAMs5lEWnQAClNlYXJjaFRyZWVzcQB+AAzglI3ZdAAOY29weSRkZWZhdWx0JDNzcQB+AAwcsDkDdAAEY29weXNxAH4ADCugo7l0AARMYWIxc3EAfgAMcyTDDnQACHRvU3RyaW5nc3EAfgAM54ZeCXQAAiE9c3EAfgAMdi+uEXQACGdldENsYXNzc3EAfgAMVhueznQABnJlcGVhdHNxAH4ADFiNETt0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADPMC95F0AAFyc3EAfgAMmsqzmXQAA2Fic3NxAH4ADGnOOOt0AAJuZXNxAH4ADEoREI50AAl0ZXN0UGx1czFzcQB+AAzpdtbPdAACZXFzcQB+AAxToDJ+dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMd2tvG3QAAiMjc3EAfgAMfrXTBnQACGZpbmFsaXplc3EAfgAM8Tm07HQADnByb2R1Y3RFbGVtZW50c3EAfgAM2Eu7H3QACGhhc2hDb2Rlc3EAfgAMDnxg8nQABmhhbmRsZXNxAH4ADP1qv/x0AAtwcm9jZXNzRmlsZXNxAH4ADH5T7tZ0AAFkc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AoXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEGpzeS5zdHVkZW50LkxhYjF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgC6eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgC5AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgChTAAJaW5oZXJpdGVkcQB+AKFMAAdwYXJlbnRzcQB+AKF4cQB+AMJzcQB+ALkBdXEAfgCcAAAAAHBzcQB+ALkBdXEAfgCcAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCicQB+AKt1cQB+AKwAAAAAc3EAfgCuAHEAfgA/dXEAfgCxAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AMF0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgDBc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDfdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AzHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AtHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4A01sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AwXNxAH4A0nQABUFycmF5cQB+ANh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4A0nQABlN0cmluZ3NxAH4A1nNxAH4A2XVxAH4A3AAAAANzcQB+AN50AARqYXZhc3EAfgDedAAEbGFuZ3EAfgDjcHNxAH4AuQF1cQB+APcAAAADc3EAfgDSdAAOSnN5QXBwbGljYXRpb25zcQB+ANZzcQB+ANl1cQB+ANwAAAADc3EAfgDedAADanN5c3EAfgDedAAEdXRpbHEAfgDjc3EAfgDSdAAGT2JqZWN0cQB+APtzcQB+ANJ0AANBbnlxAH4A2HBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALanN5LnN0dWRlbnRzcQB+ARN0AANqc3lzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVJlx+9pdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPy9Vc2Vycy9zbWVoYXJ6aS9EZXNrdG9wL2NzY2kzMTU1L2xhYjEvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFExObQD43hKI2SGUz3hnGseLoyk6
+jsy.util.JsyApplication -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCEKlMnAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cH9RbIV0AAZub3RpZnlzcQB+AAxYYEmPdAAKYW5vbk9wdGlvbnNxAH4ADI9rJrh0AAR0ZXN0c3EAfgAMCuCjPHQABHdhaXRzcQB+AAy4jBZUdAANJGFzSW5zdGFuY2VPZnNxAH4ADKwASkp0AAlrZWVwR29pbmdzcQB+AAxADvz1dAAGZXF1YWxzc3EAfgAMX+1mw3QADGFzSW5zdGFuY2VPZnNxAH4ADBQBo6t0AAxzeW5jaHJvbml6ZWRzcQB+AAy67bMxdAAFaXNKc3lzcQB+AAz0Si3PdAANJGlzSW5zdGFuY2VPZnNxAH4ADMDy8Xt0AARtYWluc3EAfgAMG+z+1XQACW5vdGlmeUFsbHNxAH4ADEVFQJR0AAVkZWJ1Z3NxAH4ADABJDLZ0AAtmbGFnT3B0aW9uc3NxAH4ADG/25Il0AAxpc0luc3RhbmNlT2ZzcQB+AAzpR/AjdAAGPGluaXQ+c3EAfgAMfKg1/HQABmRvRmlsZXNxAH4ADLuGemx0AAI9PXNxAH4ADA/fqdB0AAVjbG9uZXNxAH4ADBGRt/10AAhtYXhTdGVwc3NxAH4ADJ4iq2d0AAd0ZXN0SnN5c3EAfgAMlzWcknQACHRvU3RyaW5nc3EAfgAMmQVhFXQAAiE9c3EAfgAMMonq6nQADkpzeUFwcGxpY2F0aW9uc3EAfgAMSVeZYnQACGdldENsYXNzc3EAfgAMsstvMXQAAm5lc3EAfgAMEGWvpXQAAmVxc3EAfgAM7sYh23QAAiMjc3EAfgAMjZvy43QACGZpbmFsaXplc3EAfgAMn4GEUnQACGhhc2hDb2Rlc3EAfgAMOZM0/XQABmhhbmRsZXNxAH4ADE2vvGF0AAtwcm9jZXNzRmlsZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0ABdqc3kudXRpbC5Kc3lBcHBsaWNhdGlvbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Acnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcQBwc3EAfgB2c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFlMAAlpbmhlcml0ZWRxAH4AWUwAB3BhcmVudHNxAH4AWXhxAH4AenNxAH4AcQBwc3EAfgB2dXEAfgBUAAAAAHNxAH4AcQBwc3EAfgB2dXEAfgBUAAAAAHNxAH4AcQBwc3EAfgB2dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB5dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB5c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCWdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCXc3EAfgCKdAADQW55c3EAfgCOc3EAfgCRdXEAfgCUAAAAAnNxAH4AlnQABXNjYWxhcQB+AJ11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhqc3kudXRpbHNxAH4Ap3QAA2pzeXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmXH72l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA/L1VzZXJzL3NtZWhhcnppL0Rlc2t0b3AvY3NjaTMxNTUvbGFiMS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU7kbk10DVmHT5jnVPhaOvduE+49s=
+source infos:
+1 items
+/Users/smeharzi/Desktop/csci3155/lab1/src/test/scala/Lab1Spec.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmZBtUt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9zbWVoYXJ6aS9EZXNrdG9wL2NzY2kzMTU1L2xhYjEvdGFyZ2V0L3NjYWxhLTIuMTAvdGVzdC1jbGFzc2VzdAABLw==
